@@ -19,7 +19,7 @@ permalink:          /:title/
 url:                ""
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:            OwnYou logo 101.jpg   
+logo:            rsz_ownyou_logo_24.jpg   
 
 navbar:
     sticky:         true
