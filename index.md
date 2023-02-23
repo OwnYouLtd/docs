@@ -2,9 +2,9 @@
 layout: page
 width: expand
 hero:
-    title: How can we help you?
+    title: Your Personal Data Revolution
     subtitle: Search or browse in depth articles and videos on everything on Docs Jekyll theme, from basic theme setup to customisation and development
-    image: knowledge.svg
+    image: uploads/OwnYou logo 101.jpg
     search: true
 ---
 
