@@ -10,7 +10,7 @@ description:        OwnYou docs and material related to architecture.
 lang:               en
 
 # Site subpath, e.g. /blog
-baseurl:            "docs"
+baseurl:            ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
@@ -105,7 +105,7 @@ uploads:            /uploads/
 markdown:           kramdown
 highlighter:        rouge
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-gist
