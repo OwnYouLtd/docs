@@ -4,7 +4,7 @@ width: expand
 hero:
     title: Your Personal Data Revolution
     subtitle: Search or browse in depth articles and videos on everything on Docs Jekyll theme, from basic theme setup to customisation and development
-    image: uploads/OwnYou logo 101.jpg
+    image: OwnYou logo 101.jpg
     search: true
 ---
 
