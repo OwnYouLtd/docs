@@ -1,96 +1,31 @@
-# The OwnYou docs are used to update OwnYou web documentation
+## This repo is used to maintain OwnYou's web documentation and solicit discussion and contributions to the OwnYou architecture.
 
-Site is managed by OwnYou Ltd but feedback and contributions are welcome.
+### Vision
 
-## Vision
+We are building core architecture for individuals to harvest their own personal data, make it available to third party machine learning entities to extract and monetize intelligent personal profiles, in a privacy preserving manner.
 
-We are building the core architecture for individuals to harvest their personal data, make it available to third party machine learning entities, extract and monetize  intelligent personal profiles, in a privacy preserving manner.
+The OwnYou documentation will help you better understand our vision and how the architecture works.
 
-These docs will help you better understand our vision and how the architecture works.
-
-We want this to remain an open source project and your contributions will bring OwnYou to life.
+We want this to remain an open source project. Your contribution will bring OwnYou to life.
 
 Ultimately, OwnYou will form the base personal data layer for intelligent personal AI. But before we get to that, we need to figure out:
 
-- how to efficiently harvest all our personal data in secure decentralized storage 
-- how to make that data available to third party machine learning algorythms 
+- how to efficiently harvest an individual's personal data in secure decentralized storage,
+- how to make that data available to third party machine learning algorithms, and
+- how to help individuals share, and monetize, their intelligent profiles with advertisers, and other commercial opportunities, in a privacy preserving manner.
 
-## Architecture
+### Contributions
 
-There are a couple of ways you can dicuss new ideas and contributions to the architecture. You can drop into the relevant Discord channel or you can submit a new issue on this discord repo:
+There are a couple of ways you can discuss new ideas and contributions to the architecture. You can submit a new issue on this discord repo or you can drop into the relevant Discord channel:
 
-- [Intelligence Stack](https://discord.com/channels/960473414978646036/986321483884294315)
-- [Distributed Computing]
-- [Decentralized Storage]
-- [Digital Advertising using OwnYou's privacy preserving, equitable, personal data]
-- [Other applications that leverage intelligent privacy presersing personal data] 
+- [Intelligence Stack](https://discord.com/channels/960473414978646036/986321483884294315), a community of independent machine learning experts, extracting intelligence from private personal data.
+- [Decentralized Storage](https://discord.com/channels/960473414978646036/986321420273459330), that allows individuals to store their raw personal data in a secure manner and run third party machine learning algorithms in a privacy preserving manner.
+- [Digital Advertising](https://discord.com/channels/960473414978646036/1078613236741574696) using OwnYou's privacy preserving, equitable, personal data
+- [Other applications](https://discord.com/channels/960473414978646036/1078613645673648138) that leverage intelligent privacy preserving personal data
+- [Incentivization](https://discord.com/channels/960473414978646036/1078614046808481843) architecture that compensates the intelligence stack, compute and storage suppliers, and individuals for sharing their personal, albeit pseudonymous, data.
 
+### Contact
 
-## Contributions
-Add your site and author details in `_config.yml`:
-```yaml
-# Site title and description
-title:              Docs
-description:        Documentation Jekyll theme.
-lang:               en
+You can contact Nick Longcroft by DMing him on [Twitter](https://twitter.com/nlongcroft), or you can bang some time in his [calendar](https://calendly.com/nlongcroft-1/ownyou-catchup).
 
-# Site subpath, e.g. /blog
-baseurl:            ""
-
-# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink:          /:title/
-
-# Site base hostname & protocol, e.g. http://example.com
-url:                ""
-
-# Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:               
-
-navbar:
-  search:           true;
-  
-# Default author settings
-author:
-    name:           Pete Seth
-    title:          Lead Developer  
-    avatar:         avatar-tom.png
-```
-
-## Customization
-
-To modify the primary color, open `/_sass/theme/variables.scss` and replace the color values e.g.:
-
-```scss
-$global-primary-background:                   #05c896;
-```
-
-Further style customisation can be done in the following files:
-```
-/_sass/theme/mixins.scss
-/_sass/theme/variables.scss
-/assets/css/main.scss
-```
-
-## Development
-
-Install [UIkit](https://getuikit.com/) font end framework dependency via Npm:
-```bash
-npm install
-```
-Enable live browser reload with the following:
-```bash
-bundle exec jekyll s --livereload
-```
-
-## Credits and Sources
-
-- Google analytics https://www.google.com/analytics/
-- Google maps https://www.google.com/maps
-- UIkit front end framework https://getuikit.com/
-- Jekyll CML https://jekyllrb.com/
-
-## Support
-Customer support is provided through our Envato item page [contact form](https://themeforest.net/item/docs-responsive-documentation-manual-jekyll-theme/21131076/support) for up to six months from the purchase date and is provided Monday to Friday during the business week. We aim to answer all support requests daily, most are handled within 24h.
-
-## Documentation
-Full documentation can be found here: [https://jekyll-theme-docs.netlify.com/docs/installation/](https://jekyll-theme-docs.netlify.com/docs/installation/).
+This site is managed by OwnYou Ltd but all feedback and contributions are welcome.

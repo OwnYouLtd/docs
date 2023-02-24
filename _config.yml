@@ -10,7 +10,7 @@ description: OwnYou docs and material related to architecture.
 lang: en
 
 # Site subpath, e.g. /blog
-baseurl: "docs"
+baseurl: ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink: /:title/
@@ -33,52 +33,52 @@ author:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-  nick:
-    name: Nicholas Longcroft
-    title:
+  Nick:
+    name: Me
+    title: " "
     avatar: avatar-nick.png
-  evan:
-    name: Evan Wells
-    title: Support
-    avatar: avatar-evan.png
-  sara:
-    name: Sara Galen
-    title: Lead Developer
-    avatar: avatar-sara.png
-  alex:
-    name: Alex Koch
-    title: Design Engineer
-    avatar: avatar-alex.png
-  daniel:
-    name: Daniel Shultz
-    title: Developer
-    avatar: avatar-daniel.png
-  tom:
-    name: Tom Farrell
-    title: Developer
-    avatar: avatar-tom.png
+  CTO:
+    name: You
+    title: CTO
+    avatar: avatar-cto4.png
+  # Lead Developer:
+  #   name: You
+  #   title: Lead Developer
+  #   avatar: avatar-ld.png
+  Community Manager:
+    name: You
+    title: Community Builder
+    avatar: avatar-cm3.png
+  Publisher Lead:
+    name: You
+    title: Publisher Lead
+    avatar: avatar-pl.png
+  Advertiser Lead:
+    name: You
+    title: Advertiser Lead
+    avatar: avatar-al3.png
 
 # Social icons displayed in footer
 social:
   email:
   website:
-  facebook: https://www.facebook.com/
+  facebook:
   discord: https://discord.gg/W5bK2pGu
   dribbble:
   github:
   googleplus:
-  instagram: https://www.instagram.com/
+  instagram:
   linkedin:
   pinterest:
   twitter: https://twitter.com/
-  vimeo: https://vimeo.com/
+  vimeo:
   youtube:
 
 # Share button
 share:
   post: true # Display share buttons on a post page
   doc: true # Display share buttons on a doc page
-  twitter: username # Enable by adding Twitter handle
+  twitter: nlongcroft # Enable by adding Twitter handle
   facebook: true # Enable by setting true (Facebook handle not required)
 
 # Default footer image settings
