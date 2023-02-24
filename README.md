@@ -1,10 +1,9 @@
-# Docs is a premium documentation Jekyll theme
+# The OwnYou docs are used to update OwnYou web documentation
 
-Desk was developed by [Unbound Studio](https://unbound.studio).
+Site is managed by OwnYou Ltd but feedback and contributions are welcome.
 
-## Installation
+## Vision
 
-Install the dependencies with [Bundler](http://bundler.io/):
 
 ```bash
 bundle install
@@ -17,9 +16,14 @@ bundle exec jekyll serve
 
 You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
-## Setup
+## Architecture
 
-### Site and author details
+Contributions to the architecture should be first discussed in Discord:
+
+- [Discord - Intelligence Stack](https://discord.com/channels/960473414978646036/986321483884294315):
+
+
+## Contributions
 Add your site and author details in `_config.yml`:
 ```yaml
 # Site title and description
