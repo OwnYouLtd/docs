@@ -11,4 +11,4 @@ If you don't want to create a new issue on GitHub, if you don't fancy [Discord](
 
 ##### If you send us an enquiry using our contact form, we will store your enquiry including any contact details that you have provided for the purpose of dealing with your enquiry and any subsequent questions. We will not pass on such data without your agreement.
 
-##### For other disclaimers, please see the [disclaimer page](/disclaimer).
+##### For other disclaimers, please see the [disclaimer page](/disclaimer.md).
