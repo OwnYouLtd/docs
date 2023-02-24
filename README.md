@@ -4,23 +4,26 @@ Site is managed by OwnYou Ltd but feedback and contributions are welcome.
 
 ## Vision
 
+We are building the core architecture for individuals to harvest their personal data, make it available to third party machine learning entities, extract and monetize  intelligent personal profiles, in a privacy preserving manner.
 
-```bash
-bundle install
-```
+These docs will help you better understand our vision and how the architecture works.
 
-Run the following to generate your site:
-```bash
-bundle exec jekyll serve
-```
+We want this to remain an open source project and your contributions will bring OwnYou to life.
 
-You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+Ultimately, OwnYou will form the base personal data layer for intelligent personal AI. But before we get to that, we need to figure out:
+
+- how to efficiently harvest all our personal data in secure decentralized storage 
+- how to make that data available to third party machine learning algorythms 
 
 ## Architecture
 
-Contributions to the architecture should be first discussed in Discord:
+There are a couple of ways you can dicuss new ideas and contributions to the architecture. You can drop into the relevant Discord channel or you can submit a new issue on this discord repo:
 
-- [Discord - Intelligence Stack](https://discord.com/channels/960473414978646036/986321483884294315):
+- [Intelligence Stack](https://discord.com/channels/960473414978646036/986321483884294315)
+- [Distributed Computing]
+- [Decentralized Storage]
+- [Digital Advertising using OwnYou's privacy preserving, equitable, personal data]
+- [Other applications that leverage intelligent privacy presersing personal data] 
 
 
 ## Contributions
