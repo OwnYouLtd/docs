@@ -16,7 +16,7 @@ baseurl: "docs"
 permalink: /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url: ""
+url: "https://github.com/OwnYouLtd/docs/"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo: ownyou_logo_24b.png
