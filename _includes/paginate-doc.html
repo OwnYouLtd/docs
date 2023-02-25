@@ -9,7 +9,7 @@
                 {% if forloop.first %}
                 {% else %}
                   {% assign previous = forloop.index0 | minus: 1 %}
-                  {% assign previous_page = docs[previous] | prepend:"/docs/docs/" | append:"/" %}
+                  {% assign previous_page = docs[previous] | prepend:"/docs/" | append:"/" %}
                   {% assign previous_doc = site.docs | where:"url", previous_page | first %}
                     <h5>{{previous_doc.title}}</h5>
                     <div><a class="remove-underline hvr-back" href="{{previous_page}}">&larr; {{ site.data.translation[site.lang].previous | default: "Previous" }}</a></div>
