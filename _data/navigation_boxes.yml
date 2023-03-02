@@ -1,16 +1,15 @@
 # Boxes include navigation
 
-- title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
-  icon: cog
-  doc: installation
+- title: Why
+  desc: Why is OwnYou important and why is now the right time
+  icon: question
+  doc: why
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
-  icon: settings
-  doc: hero
+- title: How
+  desc: How do we build OwnYou and what recent developments make it possible
+  icon: heart
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
-  icon: code
-  doc: customize
+- title: What
+  desc: What are the main components and how do they come together to form an equitable, regenerative, community
+  icon: users
+  doc: what
