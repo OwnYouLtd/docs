@@ -34,7 +34,7 @@ author:
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
   Nick:
-    name: Me
+    name: Nick
     title: " "
     avatar: avatar-nick.png
   CTO:

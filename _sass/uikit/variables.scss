@@ -28,16 +28,28 @@ $alert-color: $global-color !default;
 $alert-close-top: $alert-padding + 5px !default;
 $alert-close-right: $alert-padding !default;
 $global-primary-background: #1e87f0 !default;
-$alert-primary-background: lighten(mix(white, $global-primary-background, 40%), 20%) !default;
+$alert-primary-background: lighten(
+  mix(white, $global-primary-background, 40%),
+  20%
+) !default;
 $alert-primary-color: $global-primary-background !default;
 $global-success-background: #32d296 !default;
-$alert-success-background: lighten(mix(white, $global-success-background, 40%), 25%) !default;
+$alert-success-background: lighten(
+  mix(white, $global-success-background, 40%),
+  25%
+) !default;
 $alert-success-color: $global-success-background !default;
 $global-warning-background: #faa05a !default;
-$alert-warning-background: lighten(mix(white, $global-warning-background, 45%), 15%) !default;
+$alert-warning-background: lighten(
+  mix(white, $global-warning-background, 45%),
+  15%
+) !default;
 $alert-warning-color: $global-warning-background !default;
 $global-danger-background: #f0506e !default;
-$alert-danger-background: lighten(mix(white, $global-danger-background, 40%), 20%) !default;
+$alert-danger-background: lighten(
+  mix(white, $global-danger-background, 40%),
+  20%
+) !default;
 $alert-danger-color: $global-danger-background !default;
 $global-large-margin: 70px !default;
 $article-margin-top: $global-large-margin !default;
@@ -76,7 +88,8 @@ $inverse-badge-background: $inverse-global-primary-background !default;
 $inverse-badge-color: $inverse-global-inverse-color !default;
 $inverse-badge-hover-color: $inverse-global-inverse-color !default;
 $base-body-background: $global-background !default;
-$global-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$global-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  "Helvetica Neue", Arial, sans-serif !default;
 $base-body-font-family: $global-font-family !default;
 $base-body-font-weight: normal !default;
 $global-font-size: 16px !default;
@@ -177,27 +190,48 @@ $button-small-padding-horizontal: $global-small-gutter !default;
 $button-large-padding-horizontal: $global-medium-gutter !default;
 $button-default-background: $global-muted-background !default;
 $button-default-color: $global-emphasis-color !default;
-$button-default-hover-background: darken($button-default-background, 5%) !default;
+$button-default-hover-background: darken(
+  $button-default-background,
+  5%
+) !default;
 $button-default-hover-color: $global-emphasis-color !default;
-$button-default-active-background: darken($button-default-background, 10%) !default;
+$button-default-active-background: darken(
+  $button-default-background,
+  10%
+) !default;
 $button-default-active-color: $global-emphasis-color !default;
 $button-primary-background: $global-primary-background !default;
 $button-primary-color: $global-inverse-color !default;
-$button-primary-hover-background: darken($button-primary-background, 5%) !default;
+$button-primary-hover-background: darken(
+  $button-primary-background,
+  5%
+) !default;
 $button-primary-hover-color: $global-inverse-color !default;
-$button-primary-active-background: darken($button-primary-background, 10%) !default;
+$button-primary-active-background: darken(
+  $button-primary-background,
+  10%
+) !default;
 $button-primary-active-color: $global-inverse-color !default;
 $button-secondary-background: $global-secondary-background !default;
 $button-secondary-color: $global-inverse-color !default;
-$button-secondary-hover-background: darken($button-secondary-background, 5%) !default;
+$button-secondary-hover-background: darken(
+  $button-secondary-background,
+  5%
+) !default;
 $button-secondary-hover-color: $global-inverse-color !default;
-$button-secondary-active-background: darken($button-secondary-background, 10%) !default;
+$button-secondary-active-background: darken(
+  $button-secondary-background,
+  10%
+) !default;
 $button-secondary-active-color: $global-inverse-color !default;
 $button-danger-background: $global-danger-background !default;
 $button-danger-color: $global-inverse-color !default;
 $button-danger-hover-background: darken($button-danger-background, 5%) !default;
 $button-danger-hover-color: $global-inverse-color !default;
-$button-danger-active-background: darken($button-danger-background, 10%) !default;
+$button-danger-active-background: darken(
+  $button-danger-background,
+  10%
+) !default;
 $button-danger-active-color: $global-inverse-color !default;
 $button-disabled-background: $global-muted-background !default;
 $button-disabled-color: $global-muted-color !default;
@@ -212,21 +246,39 @@ $button-link-hover-text-decoration: underline !default;
 $button-link-disabled-color: $global-muted-color !default;
 $inverse-button-default-background: $inverse-global-primary-background !default;
 $inverse-button-default-color: $inverse-global-inverse-color !default;
-$inverse-button-default-hover-background: darken($inverse-button-default-background, 5%) !default;
+$inverse-button-default-hover-background: darken(
+  $inverse-button-default-background,
+  5%
+) !default;
 $inverse-button-default-hover-color: $inverse-global-inverse-color !default;
-$inverse-button-default-active-background: darken($inverse-button-default-background, 10%) !default;
+$inverse-button-default-active-background: darken(
+  $inverse-button-default-background,
+  10%
+) !default;
 $inverse-button-default-active-color: $inverse-global-inverse-color !default;
 $inverse-button-primary-background: $inverse-global-primary-background !default;
 $inverse-button-primary-color: $inverse-global-inverse-color !default;
-$inverse-button-primary-hover-background: darken($inverse-button-primary-background, 5%) !default;
+$inverse-button-primary-hover-background: darken(
+  $inverse-button-primary-background,
+  5%
+) !default;
 $inverse-button-primary-hover-color: $inverse-global-inverse-color !default;
-$inverse-button-primary-active-background: darken($inverse-button-primary-background, 10%) !default;
+$inverse-button-primary-active-background: darken(
+  $inverse-button-primary-background,
+  10%
+) !default;
 $inverse-button-primary-active-color: $inverse-global-inverse-color !default;
 $inverse-button-secondary-background: $inverse-global-primary-background !default;
 $inverse-button-secondary-color: $inverse-global-inverse-color !default;
-$inverse-button-secondary-hover-background: darken($inverse-button-secondary-background, 5%) !default;
+$inverse-button-secondary-hover-background: darken(
+  $inverse-button-secondary-background,
+  5%
+) !default;
 $inverse-button-secondary-hover-color: $inverse-global-inverse-color !default;
-$inverse-button-secondary-active-background: darken($inverse-button-secondary-background, 10%) !default;
+$inverse-button-secondary-active-background: darken(
+  $inverse-button-secondary-background,
+  10%
+) !default;
 $inverse-button-secondary-active-color: $inverse-global-inverse-color !default;
 $inverse-button-text-color: $inverse-global-muted-color !default;
 $inverse-button-text-hover-color: $inverse-global-color !default;
@@ -262,7 +314,10 @@ $card-primary-color-mode: light !default;
 $card-secondary-background: $global-secondary-background !default;
 $card-secondary-color: $global-inverse-color !default;
 $card-secondary-title-color: $card-secondary-color !default;
-$card-secondary-hover-background: darken($card-secondary-background, 5%) !default;
+$card-secondary-hover-background: darken(
+  $card-secondary-background,
+  5%
+) !default;
 $card-secondary-color-mode: light !default;
 $card-small-body-padding-horizontal: $global-margin !default;
 $card-small-body-padding-vertical: $global-margin !default;
@@ -338,9 +393,18 @@ $dotnav-item-hover-background: rgba($global-color, 0.6) !default;
 $dotnav-item-onclick-background: rgba($global-color, 0.2) !default;
 $dotnav-item-active-background: rgba($global-color, 0.6) !default;
 $inverse-dotnav-item-background: rgba($inverse-global-color, 0.5) !default;
-$inverse-dotnav-item-hover-background: rgba($inverse-global-color, 0.9) !default;
-$inverse-dotnav-item-onclick-background: rgba($inverse-global-color, 0.5) !default;
-$inverse-dotnav-item-active-background: rgba($inverse-global-color, 0.9) !default;
+$inverse-dotnav-item-hover-background: rgba(
+  $inverse-global-color,
+  0.9
+) !default;
+$inverse-dotnav-item-onclick-background: rgba(
+  $inverse-global-color,
+  0.5
+) !default;
+$inverse-dotnav-item-active-background: rgba(
+  $inverse-global-color,
+  0.9
+) !default;
 $global-z-index: 1000 !default;
 $drop-z-index: $global-z-index + 20 !default;
 $drop-width: 300px !default;
@@ -363,7 +427,10 @@ $form-range-thumb-border-radius: 500px !default;
 $form-range-thumb-background: $global-color !default;
 $form-range-track-height: 3px !default;
 $form-range-track-background: darken($global-muted-background, 5%) !default;
-$form-range-track-focus-background: darken($global-muted-background, 15%) !default;
+$form-range-track-focus-background: darken(
+  $global-muted-background,
+  15%
+) !default;
 $form-height: $global-control-height !default;
 $form-line-height: $form-height !default;
 $form-padding-horizontal: 10px !default;
@@ -397,7 +464,10 @@ $form-radio-margin-top: -4px !default;
 $form-radio-background: darken($global-muted-background, 5%) !default;
 $form-radio-checked-background: $global-primary-background !default;
 $form-radio-checked-icon-color: $global-inverse-color !default;
-$form-radio-checked-focus-background: darken($global-primary-background, 10%) !default;
+$form-radio-checked-focus-background: darken(
+  $global-primary-background,
+  10%
+) !default;
 $form-radio-disabled-background: $global-muted-background !default;
 $form-radio-disabled-icon-color: $global-muted-color !default;
 $form-legend-font-size: $global-large-font-size !default;
@@ -422,10 +492,16 @@ $inverse-form-focus-background: $inverse-global-muted-background !default;
 $inverse-form-focus-color: $inverse-global-color !default;
 $inverse-form-placeholder-color: $inverse-global-muted-color !default;
 $inverse-form-select-icon-color: $inverse-global-color !default;
-$inverse-form-radio-background: darken($inverse-global-muted-background, 5%) !default;
+$inverse-form-radio-background: darken(
+  $inverse-global-muted-background,
+  5%
+) !default;
 $inverse-form-radio-checked-background: $inverse-global-primary-background !default;
 $inverse-form-radio-checked-icon-color: $inverse-global-inverse-color !default;
-$inverse-form-radio-checked-focus-background: darken($inverse-global-primary-background, 10%) !default;
+$inverse-form-radio-checked-focus-background: darken(
+  $inverse-global-primary-background,
+  10%
+) !default;
 $grid-gutter-horizontal: $global-gutter !default;
 $grid-gutter-vertical: $grid-gutter-horizontal !default;
 $grid-gutter-horizontal-l: $global-medium-gutter !default;
@@ -454,7 +530,7 @@ $heading-hero-line-height-m: 1 !default;
 $heading-divider-padding-bottom: 10px !default;
 $heading-divider-border-width: $global-border-width !default;
 $heading-divider-border: $global-border !default;
-$heading-bullet-top: unquote('calc(-0.1 * 1em)') !default;
+$heading-bullet-top: unquote("calc(-0.1 * 1em)") !default;
 $heading-bullet-height: 0.9em !default;
 $heading-bullet-margin-right: 10px !default;
 $heading-bullet-border-width: 5px !default;
@@ -485,9 +561,15 @@ $inverse-icon-link-hover-color: $inverse-global-color !default;
 $inverse-icon-link-active-color: $inverse-global-color !default;
 $inverse-icon-button-background: $inverse-global-muted-background !default;
 $inverse-icon-button-color: $inverse-global-muted-color !default;
-$inverse-icon-button-hover-background: darken($inverse-icon-button-background, 5%) !default;
+$inverse-icon-button-hover-background: darken(
+  $inverse-icon-button-background,
+  5%
+) !default;
 $inverse-icon-button-hover-color: $inverse-global-color !default;
-$inverse-icon-button-active-background: darken($inverse-icon-button-background, 10%) !default;
+$inverse-icon-button-active-background: darken(
+  $inverse-icon-button-background,
+  10%
+) !default;
 $inverse-icon-button-active-color: $inverse-global-color !default;
 $iconnav-margin-horizontal: $global-small-margin !default;
 $iconnav-margin-vertical: $iconnav-margin-horizontal !default;
@@ -514,17 +596,17 @@ $inverse-label-background: $inverse-global-primary-background !default;
 $inverse-label-color: $inverse-global-inverse-color !default;
 $lightbox-z-index: $global-z-index + 10 !default;
 $lightbox-background: #000 !default;
-$lightbox-item-color: rgba(255,255,255,0.7) !default;
+$lightbox-item-color: rgba(255, 255, 255, 0.7) !default;
 $lightbox-toolbar-padding-vertical: 10px !default;
 $lightbox-toolbar-padding-horizontal: 10px !default;
-$lightbox-toolbar-background: rgba(0,0,0,0.3) !default;
-$lightbox-toolbar-color: rgba(255,255,255,0.7) !default;
+$lightbox-toolbar-background: rgba(0, 0, 0, 0.3) !default;
+$lightbox-toolbar-color: rgba(255, 255, 255, 0.7) !default;
 $lightbox-toolbar-icon-padding: 5px !default;
-$lightbox-toolbar-icon-color: rgba(255,255,255,0.7) !default;
+$lightbox-toolbar-icon-color: rgba(255, 255, 255, 0.7) !default;
 $lightbox-toolbar-icon-hover-color: #fff !default;
 $lightbox-button-size: 50px !default;
 $lightbox-button-background: $lightbox-toolbar-background !default;
-$lightbox-button-color: rgba(255,255,255,0.7) !default;
+$lightbox-button-color: rgba(255, 255, 255, 0.7) !default;
 $lightbox-button-hover-color: #fff !default;
 $link-muted-color: $global-muted-color !default;
 $link-muted-hover-color: $global-color !default;
@@ -571,7 +653,7 @@ $inverse-marker-background: $global-muted-background !default;
 $inverse-marker-color: $global-color !default;
 $inverse-marker-hover-color: $global-color !default;
 $modal-z-index: $global-z-index + 10 !default;
-$modal-background: rgba(0,0,0,0.6) !default;
+$modal-background: rgba(0, 0, 0, 0.6) !default;
 $modal-padding-horizontal: 15px !default;
 $modal-padding-horizontal-s: $global-gutter !default;
 $modal-padding-horizontal-m: $global-medium-gutter !default;
@@ -714,7 +796,7 @@ $offcanvas-bar-padding-vertical-m: $global-medium-gutter !default;
 $offcanvas-bar-padding-horizontal-m: $global-medium-gutter !default;
 $offcanvas-close-position: 20px !default;
 $offcanvas-close-padding: 5px !default;
-$offcanvas-overlay-background: rgba(0,0,0,0.1) !default;
+$offcanvas-overlay-background: rgba(0, 0, 0, 0.1) !default;
 $overlay-padding-horizontal: $global-gutter !default;
 $overlay-padding-vertical: $global-gutter !default;
 $overlay-default-background: rgba($global-background, 0.8) !default;
@@ -784,7 +866,9 @@ $section-small-padding-vertical: $global-medium-margin !default;
 $section-large-padding-vertical: $global-large-margin !default;
 $section-large-padding-vertical-m: $global-xlarge-margin !default;
 $section-xlarge-padding-vertical: $global-xlarge-margin !default;
-$section-xlarge-padding-vertical-m: ($global-large-margin + $global-xlarge-margin) !default;
+$section-xlarge-padding-vertical-m: (
+  $global-large-margin + $global-xlarge-margin
+) !default;
 $section-default-background: $global-background !default;
 $section-muted-background: $global-muted-background !default;
 $section-primary-background: $global-primary-background !default;
@@ -878,7 +962,10 @@ $table-large-cell-padding-horizontal: 12px !default;
 $table-expand-min-width: 150px !default;
 $inverse-table-header-cell-color: $inverse-global-color !default;
 $inverse-table-caption-color: $inverse-global-muted-color !default;
-$inverse-table-row-active-background: fade-out($inverse-global-muted-background, 0.02) !default;
+$inverse-table-row-active-background: fade-out(
+  $inverse-global-muted-background,
+  0.02
+) !default;
 $inverse-table-divider-border: $inverse-global-border !default;
 $inverse-table-striped-row-background: $inverse-global-muted-background !default;
 $inverse-table-hover-row-background: $inverse-table-row-active-background !default;
@@ -915,7 +1002,9 @@ $tile-small-padding-vertical: $global-medium-margin !default;
 $tile-large-padding-vertical: $global-large-margin !default;
 $tile-large-padding-vertical-m: $global-xlarge-margin !default;
 $tile-xlarge-padding-vertical: $global-xlarge-margin !default;
-$tile-xlarge-padding-vertical-m: ($global-large-margin + $global-xlarge-margin) !default;
+$tile-xlarge-padding-vertical-m: (
+  $global-large-margin + $global-xlarge-margin
+) !default;
 $tile-default-background: $global-background !default;
 $tile-muted-background: $global-muted-background !default;
 $tile-primary-background: $global-primary-background !default;
@@ -958,13 +1047,13 @@ $box-shadow-bottom-background: #444 !default;
 $box-shadow-bottom-blur: 20px !default;
 $dropcap-margin-right: 10px !default;
 $dropcap-font-size: (($global-line-height * 3) * 1em) !default;
-$leader-fill-content: '.' !default;
+$leader-fill-content: "." !default;
 $leader-fill-margin-left: $global-small-gutter !default;
 $logo-font-size: $global-large-font-size !default;
 $logo-font-family: $global-font-family !default;
 $logo-color: $global-color !default;
 $logo-hover-color: $global-color !default;
-$dragover-box-shadow: 0 0 20px rgba(100,100,100,0.3) !default;
+$dragover-box-shadow: 0 0 20px rgba(100, 100, 100, 0.3) !default;
 $inverse-logo-color: $inverse-global-color !default;
 $inverse-logo-hover-color: $inverse-global-color !default;
 $breakpoint-small: 640px !default;
@@ -975,10 +1064,10 @@ $breakpoint-xsmall-max: ($breakpoint-small - 1) !default;
 $breakpoint-small-max: ($breakpoint-medium - 1) !default;
 $breakpoint-medium-max: ($breakpoint-large - 1) !default;
 $breakpoint-large-max: ($breakpoint-xlarge - 1) !default;
-$global-small-box-shadow: 0 2px 8px rgba(0,0,0,0.08) !default;
-$global-medium-box-shadow: 0 5px 15px rgba(0,0,0,0.08) !default;
-$global-large-box-shadow: 0 14px 25px rgba(0,0,0,0.16) !default;
-$global-xlarge-box-shadow: 0 28px 50px rgba(0,0,0,0.16) !default;
+$global-small-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08) !default;
+$global-medium-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08) !default;
+$global-large-box-shadow: 0 14px 25px rgba(0, 0, 0, 0.16) !default;
+$global-xlarge-box-shadow: 0 28px 50px rgba(0, 0, 0, 0.16) !default;
 $width-small-width: 150px !default;
 $width-medium-width: 300px !default;
 $width-large-width: 450px !default;

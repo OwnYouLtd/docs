@@ -2,7 +2,7 @@
 title: How
 subtitle: How do we build OwnYou and what recent developments make it possible
 tags: [how, genesis, mission, vision]
-author: nick
+author: Nick
 ---
 
 How blah
