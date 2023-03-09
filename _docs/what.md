@@ -1,13 +1,13 @@
 ---
 title: What
-subtitle: We define the experience for an individual, a publisher and an advertiser. OwnYou is a community of stakeholders in search of a superior, and more sustainable platform. Where equity is a function on participation and contribution.
+subtitle: OwnYou makes it easy for individuals to convert their raw data into intelligent profiles. Publishers get access to much higher quality reader meta data, increasing the value of their inventory, and advertisers reach the most relevant audience, reducing wasted advertising spend, improving ROI. Helping individuals monetize their personal data, psuedonimously, converts the experience from predatory to transactional.
 tags: [what, genesis, mission, vision]
 author: Nick
 ---
 
-{% include alert.html style="danger" text="<strong>OwnYou will make it easy</strong> for individuals to convert their raw data into intelligent profiles. Publishers get access to much higher quality reader meta data, increasing the value of their inventory, and advertisers reach the most relevant audience, reducing wasted advertising spend, improving ROI. Helping individuals monetize their personal data psuedonimously converts the experience from predatory to proactive." %}
+{% include alert.html style="danger" text="We discuss stakeholder requirements, in much more detail, in dedicated sections. Here, we will walk you through three stakeholder narratives. OwnYou from a consumer, advertiser and publisher perspective." %}
 
-We discuss stakeholder requirements, in much more detail, in dedicated sections. Here, we will walk you through stakeholder narratives. What is OwnYou from a consumer, advertiser and publisher perspective?
+Note that we discuss the <a href="/docs/docs/intelligence_stack/">Intelligence Stack</a> separately.
 
 ### The Consumer
 
@@ -17,8 +17,8 @@ Jane has downloaded the OwnYou app and watched a 30-second animation that made i
 {% include image.html img="what_consumer.png" alt="What Consumers Get" caption="Consumers get more relevant ads, they get paid for sharing their personal data, they get access to relevant and timely discounts, and they get to remain pseudonymous. Nice." style="width: 100; height: auto; display: block; margin: 0 auto;" %} -->
 
 <figure>
-  <a href="/docs/uploads/what_consumer.png" data-uk-lightbox="animation: slide">
-    <img src="/docs/uploads/what_consumer.png" style="max-width: 75%; display: block; margin: 0 auto; margin-bottom: 20px;" alt="What Consumers Get">
+  <a href="/docs/uploads/what_consumer1.png" data-uk-lightbox="animation: slide">
+    <img src="/docs/uploads/what_consumer1.png" style="max-width: 75%; display: block; margin: 0 auto; margin-bottom: 20px;" alt="What Consumers Get">
   </a>
   <figcaption style="font-style: italic; font-size: 0.8em; text-align: center;">Consumers get more relevant adds, they get paid for sharing their personal data, they get access to relevant and timely discounts and they get to remain psuedonymous. Nice.</figcaption>
 </figure>
@@ -38,6 +38,19 @@ Big has always boasted about it's relatively large subscriber base but what they
 
 OwnYou provides them with the best of both worlds. With relatively little additional code, they have added an OwnYou login button on their homepage. Any user logging in with that option shares detailed information far beyond what they have been able to capture on their own. Better yet, they can now pass that information through to advertisers using their existing header bidder setup. The more granular, and authentic, information substantially increases the value of their inventory. And because the user is psuedonymous, they don't have the hassle of having to manage user data. Big focuses on attracting the best audience, with high quality content, and OwnYou helps them monetize their inventory with next to no additional technology cost. Happy days for the team at Big.
 
+<figure>
+  <a href="/docs/uploads/what_publisher1.png" data-uk-lightbox="animation: slide">
+    <img src="/docs/uploads/what_publisher1.png" style="max-width: 75%; display: block; margin: 0 auto; margin-bottom: 20px;" alt="Publishers and Advertisers">
+  </a>
+  <figcaption style="font-style: italic; font-size: 0.8em; text-align: center;">Publishers leverage psuedonimous personal data to enrich their inventory and Advertisers get access to more reliable audiences, and real time deterministic attribution data.</figcaption>
+</figure>
+
 ### The Advertiser
 
-Widget Inc sells all sorts of widgets. Big widgets for Mr Large in Knightsbridge and little widgets to Mrs Miggins in Southend on Sea. It isn't always easy for Widget Inc to find more customers like Mr Large and Mrs Miggins. It is important to direct the campaign for big widgets to customers like Mr Large, and the campaign for little widgets to customers like Mrs Miggins. Mrs Miggins wouldn't appreciate being shown an ad for big widgets, not all all. She wouldn't know which way round to hold it. In the good old days they would pay lots of data management companies to find them specific audiences for specific campaigns but without third-party cookies, they have to rely on first-party cookies
+Widget Inc sells all sorts of widgets. Big widgets for Mr Large in Knightsbridge, and little widgets to Mrs Miggins in Southend on Sea. It isn't always easy for Widget Inc to find more customers like Mr Large and Mrs Miggins. It is important to direct the campaign for big widgets to customers like Mr Large, and the campaign for little widgets to customers like Mrs Miggins. Mrs Miggins wouldn't appreciate being shown an ad for big widgets, not all all. She wouldn't know which way round to hold it. In the past, Widget Inc relied on data management companies to find specific audiences for targeted campaigns, but without third-party cookies, they now have to rely on less effective first-party cookies. Moreover, the deprecation of third-party cookies and more restrictive privacy policies by Apple have made attribution reporting increasingly complex and unreliable.
+
+OwnYou introduces an entirely new approach. The information individuals share is not only guaranteed to be authentic (no more bots!) but the quality of information is unmatched; it is more granular and more relevant. Widget Inc can request an attribution relationship, which they pay the individual for directly, and that helps them track both how many times they are serving a campaign to the same individual across different media and different platforms. It also allows them to connect to an individual directly with customized campaigns, which helps with conversions. This entirely new approach, that allows them to open a transactional relationship with individuals, paying for the right to advertise to them, helps them navigate an increasingly complex privacy landscape. Above all, because audience targeting is so much more precise, because attribution is deterministic and a function of a direct relationship with the individual, the return on advertising spend is orders or magnitude higher.
+
+Finally, thanks to engaging OwnYou Ltd, they now have a real time feel for changing consumer trends. OwnYou Ltd provides insight on what products and services will get the best traction, how to optimize campaigns, and how to leverage OwnYou's unique, time and location based, easter-egg marketing platform.
+
+Overall, by engaging with OwnYou Ltd, Widget Inc gains a competitive advantage in navigating an increasingly complex privacy landscape and delivering more relevant and effective campaigns to their target audience.

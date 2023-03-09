@@ -1,14 +1,17 @@
 ---
-title: Getting started with our application
-author: tom
-categories: [news]
+title: A brief history of programmatic advertising
+author: Nick
+categories: [background, adtech, whitepaper]
 ---
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+Soon after the Internet moved from the academic to the popular domain, banner advertising followed (1994). Media operators initially sold their inventory directly to media buyers and advertisers but, as the number of web pages exploded, so did the amount of display advertising inventory. It soon made sense to serve display ads via dedicated centralised ad servers operated by the likes of DoubleClick.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+DoubleClick’s principal product, DART (Dynamic Advertising, Reporting, and Targeting), helped publishers sell their inventory and helped advertisers target their advertising more effectively, improving the return of their ad budgets. After listing in 1998, DoubleClick purchased Abacus Direct in 1999. Abacus Direct specialised in selling consumer-purchasing data to catalogue firms. It became obvious, very early on in this journey, that the more you know about your customer the better you could target them, and the more valuable your services. Privacy advocates complained the acquisition would allow DoubleClick to combine online cookie data with offline identity data. The FTC (Federal Trade Commission) found no wrongdoing.
+
+In 2005, the Right Media Exchange was launched as the first global ad exchange. While matching sellers of excess inventory with buyers was a clever enough solution, the real innovation came from allowing advertisers to buy only the ad space that matched their customer targeting requirements. This meant brands could target limited ad budgets to very specific customer demographics.
 
 ## Image Lightbox Example
+
 Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
 
 {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
@@ -16,6 +19,7 @@ Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin
 Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
 
 ## Example Of Code Block
+
 In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
 ```html
@@ -30,6 +34,7 @@ In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibe
 ```
 
 ## Text and Quote
+
 Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
 
 > Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet

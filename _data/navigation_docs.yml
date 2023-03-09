@@ -1,13 +1,10 @@
 - title: Getting Started
   docs:
     - why
-    - how
     - what
-    - footer
-    - posts
-    - docs
-    - comments
-    - analytics
+    - how
+    - intelligence_stack
+    - how_to_use_documentation
 
 - title: Theme Features
   docs:

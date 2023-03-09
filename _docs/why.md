@@ -1,38 +1,47 @@
 ---
 title: Why
-subtitle: Our mission is to build tools that allow you to take back control of your personal data, generate intelligence, and monetize it, without relying on another big technology company that pretends to have your interest at heart.
+subtitle: Our mission is to build tools that allow individuals to take back control of their personal data, generate intelligence, and monetize it. OwnYou's infrastructure plugs directly into the existing advertising technology stack, and can easily be adapted for dynamic price comparison, customized marketing, and entertainment. OwnYou is an open sourced decentralized venture, that puts the power back into the hands and people, and helps businesses connect to, and covert, high quality audiences. Real people, real data, real-time attribution.
+
 tags: [why, genesis, mission, vision]
 author: Nick
 ---
 
-{% include alert.html style="danger" text="<strong>We are going to give you the power of big tech.</strong> You will be able to bring all your data together and create valuable profiles for businesses eager to get to know you. And the best bit is you won't have to give up any of your privacy, you won't have to rely on another big tech company and you get to decide who sees what. OwnYou is a community, an open sourced decentralized venture that puts the power back into the hands and people, and<strong> helps businesses by getting rid of the middle-men</strong>." %}
+### <span style="color: #e81313"> A radically new approach</span>
 
-{% include image.html img="why.png" lightbox="true" alt="Alt for image" caption="Your data, feeds your intelligent profiles, which you share with businesses for services and money" %}
+It is difficult for the legacy technology stack to adapt when user consent and control have been incidental to the underlying process. The legacy advertising technology stack is vulnerable to disruption, and we think several emerging technologies make that disruption increasingly likely. Our vision is for a decentralized community, in control of their personal data, but also engaged in developing safe and secure means to extract intelligence and value, with innovative economic incentives.
 
-We rely on businesses to provide us with the things we need, and businesses need us to buy their goods and services. And at the center of every interaction between you and any business, lies data.
+By making it easy for individuals to consolidate their personal data, and by connecting them to a community of machine learning specialist, we make it possible for individuals to create valuable, high resolution, personal profiles far superior to anything currently available.
 
-King amongst all data, is your personal data.
+{% include image.html img="why.png" lightbox="true" alt="Alt for image" caption="Your data feeds your intelligent profiles, which you share with businesses for services and money" %}
 
-Your personal data helps a business understand whether you might buy their new product. Businesses don't want to waste time and money on customers unlikely to buy their product which means finding the right customers, and only spending money on marketing to those customer, is a top priority. This makes your data rather valuable. So much so that entire industries have evolved to capture and sell your personal data to business looking to develop new marketing opportunities.
+### Personal Data
+
+We rely on businesses to provide us with the things we need, and businesses need us to buy their goods and services. At the center of every interaction between you, and any business, lies data. King amongst all data, is your personal data.
+
+Your personal data helps a business understand whether you might buy their products. Businesses don't want to waste time and money on customers unlikely to buy their product which means finding the right customers, and only spending money on marketing to those customer, is a top priority. This makes your data rather valuable. So much so that entire industries have evolved to capture and sell your personal data to businesses looking to develop new marketing opportunities.
 
 Billions of dollars have been spent on automating the way your personal data can be harvested. Clever technology companies have created sophisticated systems that collect your data, from hundreds of different sources, pulling it together into profiles that tell a business who you are and what you like.
 
-You create a massive amount of personal data. Every time you interact with a website or app you leave a trail of personal data. Since we spend more and more time with increasingly intelligent devices, the amount of data we create is growing exponentially. But should companies be able to use your data without your permission. More important, should they be able to keep it indefinitely?
+Since we spend more and more time with increasingly intelligent devices, the amount of data we create is growing exponentially. But should companies be able to use your data without your permission? More important, should they be able to keep it indefinitely? Absolutely not.
 
-The interesting thing about data is the degree to which it can add value. The more information in the data, the more valuable it becomes. Sharing a list of your latest financial transactions is less valuable than communicating your desire to buy a red car within the next thirty days. Raw financial transaction is just data but your propensity to buy a car is information. This is why large technology companies want to collect as much data on you as possible. The more data they collect, the more information can be extracted from that data. And information has value.
+### Regulation
 
-We think this all seems a little predatory. In fact, this discussion risks getting a little more sinister if we consider how information that describes you, and what you want, is used to influence your decision making process. Not only what you buy, but what you read and watch and, in some cases, how you vote.
+The latest developments in privacy regulations insist consumers are given the opportunity to control their data, in addition to providing consent. Furthermore, using AI and personal data to “manipulate persons through subliminal techniques beyond their consciousness” will be banned. Companies collecting personal data will have to make it easy for you to audit and delete your data.
 
-Creating personal data at an exponential rate might be inevitable, but how that data is stored, shared, and converted to information should be up to us, the consumer.
+Companies using your personal data in AI systems will have to ensure compliance with rapidly evolving regulations. Imagine the growing compliance headache for companies scrambling to untangle a mess of data collected from third parties, data shared with associates, data harvested without appropriate consent and data used in AI systems.
 
-We think you should control how your data is allowed to skew your perspective and you should control how your data is being used to influence your decision-making process. Regulators agree.
+With each regulator insisting on different requirements, the regulatory risk is mounting, and the financial burden for companies is material. We expect companies to pivot from hoarding customer data within their own databases, towards accessing customer data directly from individuals in a safe and compliant manner.
 
-The latest developments in privacy regulations insist consumers are given the opportunity to control their data, in addition to providing consent. Furthermore, using AI and personal data to “manipulate persons through subliminal techniques beyond their consciousness” will be banned. Companies collecting personal data will have to make it easy for you to audit and delete your data. Companies using your personal data in AI systems will have to ensure compliance with rapidly evolving regulations. Imagine the growing compliance headache for companies scrambling to untangle a mess of data collected from third parties, data shared with associates, data harvested without appropriate consent and data used in AI systems. With each regulator insisting on different requirements, the regulatory risk is mounting, and the financial burden for companies is material. We expect companies to pivot from hoarding customer data within their own databases, towards accessing customer data directly from individuals in a safe and compliant manner.
+### A radically different transactional approach
 
-We want to put full control of personal data, and information, into the hands of the individual via a decentralised architecture that allows them to selectively release data, chose pseudonymity, make their data available to machine learning algorithms for profiling and analysis, and ensure they can be compensated for what they share. We want to make dynamic creative optimisation transparent to users. We want to make it easy for companies to access and contribute to personal data stores, releasing them from increasingly onerous regulations.
+OwnYou takes a transactional approach to personal data. Individuals provide psuedonymous personal data in exchange for a specific service, and a financial reward. Each transaction is discrete. Each transaction carries a unique one time identifier. Data can only be used for that specific transaction and permission to store data is not granted (with the exception of attribution hashes related to a specific campaign). This is fundamentally different from the legacy digital advertising technology stack where personal data is harvested and permission, more often that not, is a function of an <a href="https://www.lexology.com/library/detail.aspx?g=ac96c27f-9b42-4687-a1e4-0116b86f6644" target="_blank">increasingly tenuous contract</a>. Control is conspicuously <a href="https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/" target="\_blank">absent</a>.
 
-We need to move away from a multi-billion-dollar advertising technology stack that feeds off personal data. We are tracked, harvested, and then sold. We have very little control. The services we are provided in exchange for our data are no longer commensurate with the value we contribute.
+The interesting thing about data is the degree to which it can add value. The more information in the data, the more valuable it becomes. Sharing a list of your latest financial transactions is less valuable than communicating your desire to buy a red car within the next thirty days. Your financial transactions are just data, but your propensity to buy a car is information. This is why large technology companies want to collect as much data on you as possible and why they are spending so heavily on AI. The more data they collect, the more information can be extracted from that data. And information has value.
+
+Ownyou empowers individuals with control of their personal data, and information, through a decentralised architecture. Our community of independent machine learning experts work on open source algorithms, optimizing how to extract intelligence from raw personal data. Every interaction with publishers, advertisers, or any business, is a transaction. Transactions exchange discrete value for a service (access to a publisher's media) and payment (from advertisers for attribution).
+
+### The legacy advertising technology stack is entrenched
 
 While the advertising industry is under pressure to improve the way they use personal data, it is difficult for the legacy technology stack to adapt when user consent and control have been incidental to the underlying process. This makes the legacy advertising technology stack vulnerable to disruption, and we think several emerging technologies make that disruption increasingly likely. Our vision is for a decentralised community, in control of their personal data, but also engaged in developing safe and secure means to extract intelligence and value, with innovative economic incentives. There is much we can do with our data if we work on it together.
 
-It starts with us taking back our privacy. It starts with you owning yourself. It starts with OwnYou.
+It starts with us taking back our privacy. It starts with you owning yourself. <a href="/docs/docs/what/">It starts with OwnYou</a>.
