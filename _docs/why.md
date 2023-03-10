@@ -8,7 +8,7 @@ author: Nick
 
 ### <span style="color: #e81313"> A radically new approach</span>
 
-It is difficult for the legacy technology stack to adapt when user consent and control have been incidental to the underlying process. The legacy advertising technology stack is vulnerable to disruption, and we think several emerging technologies make that disruption increasingly likely. Our vision is for a decentralized community, in control of their personal data, but also engaged in developing safe and secure means to extract intelligence and value, with innovative economic incentives.
+The legacy advertising technology stack is vulnerable to disruption, and we think several emerging technologies make that disruption increasingly likely. It is difficult for the legacy technology stack to adapt when user consent and control have been incidental to the underlying process. Our vision is for a decentralized community, in control of their personal data, but also engaged in developing safe and secure means to extract intelligence and value, with innovative economic incentives.
 
 By making it easy for individuals to consolidate their personal data, and by connecting them to a community of machine learning specialist, we make it possible for individuals to create valuable, high resolution, personal profiles far superior to anything currently available.
 

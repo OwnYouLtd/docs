@@ -57,6 +57,22 @@ authors:
     name: You
     title: Advertiser Lead
     avatar: avatar-al3.png
+  Blogger One:
+    name: " "
+    title: OwnYou Blogger One
+    avatar: avatar-cto4.png
+  Blogger Two:
+    name: " "
+    title: OwnYou Blogger Two
+    avatar: avatar-cm3.png
+  Blogger Three:
+    name: " "
+    title: OwnYou Blogger Three
+    avatar: avatar-pl.png
+  Blogger Four:
+    name: " "
+    title: OwnYou Blogger Four
+    avatar: avatar-al3.png
 
 # Social icons displayed in footer
 social:

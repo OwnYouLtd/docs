@@ -39,16 +39,17 @@ This information cannot be linked to specific individuals and will not be combin
 
 ### Contact form
 
-If you send us an enquiry using our contact form, we will store your enquiry including any contact details that you have provided for the purpose of dealing with your enquiry and any subsequent questions. We will not pass on such data without your agreement.
+If you send us an enquiry using our contact form, Twitter DM, email, or by any other means, we will store your enquiry including any contact details that you have provided for the purpose of dealing with your enquiry and any subsequent questions. We will not pass on such data without your agreement.
 
 ### Disclaimer
 
-This website is solely for informational purposes and does
-not represent a contract. The real estate developer reserves the right to change or substitute any or all of the materials, elements, and services with an appropriate equivalent. All information provided, descriptions of the building and its facilities, as well as any sales plans are only meant to be representative in nature and are therefore not yet binding, because technical, economic, or legal factors and/or governmental regulations and guidelines in particular may require changes or alterations.
+This website is solely for informational purposes and does not represent a contract. The real estate developer reserves the right to change or substitute any or all of the materials, elements, and services with an appropriate equivalent. All information provided, descriptions of the building and its facilities, as well as any sales plans are only meant to be representative in nature and are therefore not yet binding, because technical, economic, or legal factors and/or governmental regulations and guidelines in particular may require changes or alterations.
 
-Any liabilities or warranties are thus excluded on the part
-of any contractual party named on this website and/or any
-employees or bodies thereof. No liability or warranty will be assumed related to the future fulfillment or non-fulfillment of specific occurrences, expectations, assumptions, etc. OwnYou Ltd is not required to provide updates, supplements, additions, or further information regarding future changes related on this website.
+Any liabilities or warranties are thus excluded on the part of any contractual party named on this website and/or any employees or bodies thereof. No liability or warranty will be assumed related to the future fulfillment or non-fulfillment of specific occurrences, expectations, assumptions, etc. OwnYou Ltd is not required to provide updates, supplements, additions, or further information regarding future changes related on this website.
+
+### Errors and Omissions
+
+OwnYou Ltd is not responsible for any errors or omissions, or for the results obtained from the use of this information. All information in this site is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose. In no event will OwnYou ltd, its related partnerships or corporations, or the partners, agents or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in the Site or for any consequential, special, or similar damager, even it advised of the possibility of such damages.
 
 ### GitHub Pages
 

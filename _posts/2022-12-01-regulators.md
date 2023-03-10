@@ -1,0 +1,26 @@
+---
+title: A complicated regulatory landscape
+author: Blogger One
+categories: [background, adtech, whitepaper, regulations, personal_data]
+---
+
+<base target="_blank">
+Regulations are complex and evolving, with an emphasis on consent, how users control their data, and how their data is used.
+
+### GDPR
+
+The General Data Protection Regulation, or GDPR, came into effect in May 2018. While the objective was to consolidate data protection regulation across the European Union and protect its citizens, the nature of the World Wide Web is such that publishers, globally, have had to fall into line. The European Union is litigious and companies, regardless of location, can not risk the punitive 20 million Euro, or 4% of turnover, fines.
+
+What makes this legislation so very important is the sheer breadth of coverage. Personal data is defined as both data that can be directly used to identify an individual (for instance email, name passport number) and data that when paired with other data, can be used to determine the person; for example IP addresses, or the number of visits to a website. Both data controllers and data processors are responsible for the majority of compliance but the onus typically falls on the controller with respect to designing systems with [privacy-by-design](https://www.ics.ie/news/what-is-privacy-by-design-a-default) and privacy-by-default as well as ensuring that an individual's rights are fully protected.
+
+This is an onerous responsibility with material consequences on how businesses collect data and how they communicate with their users. GDPR states that data collectors and processors must show what a user is consenting to, clearly, provide the user with easy access to the data, and make it easy for a user to withdraw their consent. If a user withdraws their consent, the data collector must delete the data. This has implications for any personal data blockchain implementation. The European Parliament acknowledges there is tension between blockchain technology and GDPR compliance and, in 2019, they [commissioned](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2016:119:FULL&from=PL) a study into whether distributed ledgers can remain compliant with GDPR.
+
+### GDPR and blockchains
+
+There are two problems, in particular; accountability and immutability. On the first issue, given that GDPR makes it quite clear that at least one specific data controller must be legally responsible for compliance with EU data protection laws, it is not obvious how a decentralised jointly owned platform bears the responsibility. More specifically to whom does an individual submit their demand for restitution? The second issue is perhaps a little easier to navigate. Given a blockchain stores information such that it cannot be tampered with, including deletion, then user data cannot be stored on a blockchain network. In practice, there are few applications where that is desirable. Performance issues alone rule out using blockchains for most storage requirements. It is also important that any cryptographic solution that endeavours to anonymize user data may need to be quantum secure. GDPR requires complete and persistent anonymity. The European data protection supervisor raised the issue in an [August 2020 TechDispatch](https://edps.europa.eu/data-protection/our-work/publications/techdispatch/techdispatch-22020-quantum-computing-and_en), suggesting readers familiarize themselves with Germany’s Federal Office for Information Security recommendations (BSI), outlined by the [BSI](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Krypto/Post-Quanten-Kryptografie.html) (in German). We should expect regulators to require any personal data solution to be quantum secure.
+
+### OwnYou offers privacy by design
+
+Regulations are complex and evolving, with an emphasis on consent, how users [control their data](https://oag.ca.gov/privacy/ccpa), and how their [data is used](https://www.linklaters.com/en/insights/blogs/digilinks/ai-and-the-gdpr-regulating-the-minds-of-machines). OwnYou is keen to avoid [tripping up over consumer consent](https://digiday.com/marketing/like-an-atomic-bomb-so-what-now-for-the-iabs-gdpr-fix-after-regulator-snafu/) and instead focuses on ownership, control, transparency and equitable incentives. We advocate for a system where a user’s personal data never leaves their domain of control. The exchange of data is entirely transactional, specific and unique. Individuals only consent to their data being stored, processed or shared by any other entity for a specific purpose, and for a specific time period. If a brand, publisher, or any other party, wants to develop a relationship with the user, and that entails storing information on the user (related to interactions or transactions, or descriptive and behavioural), any related data should be stored with the user. We advocate a move from user data stored with several hundred parties to user data stored with one, the user. We will discuss our architecture in more detail but with respect to regulation, our principal objective is to create a system that replaces the need for any party, other than the user, to store personal data.
+
+[Disclaimer](/docs/disclaimer)
