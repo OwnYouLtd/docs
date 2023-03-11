@@ -2,7 +2,6 @@
 title: Publisher needs and wants
 author: Blogger Four
 categories: [advertisers, priorities, incentives, advertiser_problems]
-comments: true
 ---
 
 Publishers have two principal sources of revenue, subscriptions and advertising revenues. Regardless the degree to which they benefit from subscription revenues, all publishers benefit from increasing the value of their advertising inventory. Some publishers offer targeted advertising, celebrating their high quality first-party data, but even the most advanced publisher is still only going to be capturing static, and typically unverifiable, data. With verifiable demographic data, and dynamic target audience profiles, OwnYou provides data orders of magnitude more valuable.

@@ -3,7 +3,6 @@ title: Why
 subtitle: Our mission is to build tools that allow individuals to take back control of their personal data, generate intelligence, and monetize it. OwnYou's infrastructure plugs directly into the existing advertising technology stack, and can easily be adapted for dynamic price comparison, customized marketing, and entertainment. OwnYou is an open sourced decentralized venture, that puts the power back into the hands and people, and helps businesses connect to, and covert, high quality audiences. Real people, real data, real-time attribution.
 tags: [why, genesis, mission, vision]
 author: Nick
-comments: true
 ---
 
 ### <span style="color: #e81313"> A radically new approach</span>
@@ -45,27 +44,3 @@ Ownyou empowers individuals with control of their personal data, and information
 While the advertising industry is under pressure to improve the way they use personal data, it is difficult for the legacy technology stack to adapt when user consent and control have been incidental to the underlying process. This makes the legacy advertising technology stack vulnerable to disruption, and we think several emerging technologies make that disruption increasingly likely. Our vision is for a decentralised community, in control of their personal data, but also engaged in developing safe and secure means to extract intelligence and value, with innovative economic incentives. There is much we can do with our data if we work on it together.
 
 It starts with us taking back our privacy. It starts with you owning yourself. <a href="/docs/docs/what/">It starts with OwnYou</a>.
-
-{% if page.comments %}
-
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://ownyou-1.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}

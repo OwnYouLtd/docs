@@ -103,7 +103,7 @@ footer:
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
-  shortname: ownyou-1
+  shortname:
 
 # Google analytics code, get your code here https://www.google.com/analytics/
 google_analytics:
