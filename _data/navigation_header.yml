@@ -1,11 +1,11 @@
-# Navbar left menu navigation links 
+# Navbar left menu navigation links
 
 left:
   - title: Home
     url: /
 
   - title: Docs
-    url: /docs/installation/
+    url: /docs/why/
 
   - title: Blog
     url: /blog/

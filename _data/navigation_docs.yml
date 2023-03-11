@@ -9,7 +9,8 @@
 
 - title: Experiences and Workflows
   docs:
-    - individual_user_appeal
+    - design_goals
+    - individual_user_experience
     - individual_user_application
     - advertiser_workflow
     - advertiser_retargeting_attribution
@@ -19,13 +20,13 @@
 
 - title: Building Blocks
   docs:
-    - design_goals
     - personal_data_capture
     - personal_data_storage
-    - verfied_credentials
+    - verified_credential_workflow
 
 - title: Business Model and Economy
   docs:
     - ownyou_ltd
     - economics_incentives
     - tokens_monetary_policy
+    - public_goods_funding
