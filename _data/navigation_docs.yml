@@ -7,28 +7,25 @@
     - intelligence_stack
     - how_to_use_documentation
 
-- title: Theme Features
+- title: Experiences and Workflows
   docs:
-    - hero
-    - boxes
-    - featured
-    - videos
-    - faq
-    - team
-    - cta
-    - changelog
-    - contact
-    - media
-    - toc
-    - alerts
+    - individual_user_appeal
+    - individual_user_application
+    - advertiser_workflow
+    - advertiser_retargeting_attribution
+    - publisher_experience
+    - price_comparison_integration
+    - easter_eggs_marketing
 
-- title: Customization
+- title: Building Blocks
   docs:
-    - translation
-    - customize
-    - development
-    - sources
+    - design_goals
+    - personal_data_capture
+    - personal_data_storage
+    - verfied_credentials
 
-- title: Help
+- title: Business Model and Economy
   docs:
-    - support
+    - ownyou_ltd
+    - economics_incentives
+    - tokens_monetary_policy
