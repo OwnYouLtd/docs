@@ -18,6 +18,7 @@
 
 - title: Building Blocks
   docs:
+    - digital_wallet
     - personal_data_capture
     - personal_data_storage
     - verified_credential_workflow

@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
   title: Our Personal Data Revolution
-  subtitle: Business wants your personal data. You want access to the best content, and the goods and services that improve your life. We make it easy for you to generate intelligence from your own personal data. You can use that intelligence to access media, get the juiciest discounts on the things you want, when you most want them, and make money. OwnYou is not another middle man, but instead an open source, decentralized, community of stakeholders.
+  subtitle: Everyone wants your personal data. You want access to the best content, and the goods and services that improve your life. We make it easy for you to generate intelligence from your own personal data. You can use that intelligence to access media, get the juiciest discounts on the things you want, when you most want them, and make money. OwnYou is not another middle man, but instead an open source, decentralized, community of stakeholders. Welcome to the Decentralized Web. Welcome to OwnYou!
   image: OwnYou logo 101.jpg
   search: true
 ---
