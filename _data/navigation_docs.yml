@@ -10,8 +10,7 @@
   docs:
     - design_goals
     - individual_user_experience
-    - individual_user_application
-    - advertiser_workflow
+    - advertising_workflow
     - advertiser_retargeting_attribution
     - publisher_experience
     - price_comparison_integration

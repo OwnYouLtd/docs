@@ -22,7 +22,7 @@ While OwnYou is still in development, we have a number of sacrosanct design goal
 
 We do not want to replace walled gardens, and dominant personal data aggregators, with another centrally managed entity. Everything we do must either start off decentralized, or have clear path towards decentralization. <a href="#"><i class="fas fa-angle-up"></i> </a>
 
-### Always balanced
+### Always equitable
 
 Interests of all stakeholders must be carefully balanced to ensure long term sustainability. <a href="#"><i class="fas fa-angle-up"></i> </a>
 
@@ -32,11 +32,11 @@ Whether data is volunteered, observed, or inferred, the user must always retain 
 
 ### Capturing real data, on real people, is important and useful
 
-Traditional programmatic advertising has relied on data harvesting and the stitching together of data points from different sources, resulting in low quality probabilistic models. We want to provide deterministic data points that accurately describe demographic characteristics from verifiable sources (passport, driving license etc). Target audience profiles derived using probabilistic models based on actual consumer data complement factual demographic data. Finally, users can opt into “audiences-like-me” services that suggest goods and services of potential interest, from similar consumers, while offering their profiles to advertisers looking for similar audiences. <a href="#"><i class="fas fa-angle-up"></i> </a>
+Traditional programmatic advertising has relied on data harvesting and the stitching together of data points from different sources, resulting in low quality probabilistic models. We want to provide deterministic data points that accurately describe demographic characteristics from verifiable sources (passport, driving license etc). Target audience profiles derived using probabilistic models based on actual consumer data complement factual demographic data. <a href="#"><i class="fas fa-angle-up"></i> </a>
 
-### All stakeholders benefit from high quality verified data
+### Personal data must be verifiably authentic
 
-User volunteered data is less useful; it is unreliable, prone to fraud and seldom accurate. Verified data is expensive but much higher quality. The current advertising technology stack is beset by fraud. If an OwnYou user shares their information, the advertiser can be confident the impression is real, and any decision on whether to advertise to the user can be based on facts rather than estimates. <a href="#"><i class="fas fa-angle-up"></i> </a>
+User volunteered data is less useful. Self-labellingis unreliable, prone to fraud and seldom accurate. Verified data is expensive but much higher quality. The current advertising technology stack is beset by fraud. Instead, if an OwnYou user shares their information, the advertiser can be confident the impression is real, and any decision on whether to advertise to the user can be based on facts rather than estimates. OwnYou personal data is always verifiable. <a href="#"><i class="fas fa-angle-up"></i> </a>
 
 ### Consumers should have the right to share their data while remaining pseudonymous
 

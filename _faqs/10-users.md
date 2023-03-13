@@ -1,5 +1,5 @@
 ---
-title: Who uses OwnYou and why?
+title: Who uses OwnYou?
 categories: [faq]
 ---
 

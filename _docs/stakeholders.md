@@ -1,6 +1,6 @@
 ---
 title: Stakeholders
-subtitle: There are six stakeholders in the OwnYou ecosystem, each with incentives and specific requirements; individuals, advertisers, publishers, the Intelligence Stack, infrastructure providers and developers. Each group contributes, and extracts value, from the platform in an equatable and sustainable manner. OwnYou is a community, an ecosystem, a market, and an economy where stakeholder needs are served equitably in a sustainable and regenerative system.
+subtitle: There are six stakeholders in the OwnYou ecosystem, each with incentives and specific requirements; individuals, advertisers, publishers, the Intelligence Stack, infrastructure providers and developers. Each group contributes, and extracts value, from the platform in an equatable and sustainable manner. OwnYou is a community, an ecosystem, a market, and an economy where stakeholder needs are served equitably, in a sustainable and regenerative system.
 tags: [stakeholders, mission, vision]
 author: Nick
 ---
@@ -25,7 +25,9 @@ The <a href="/docs/docs/intelligence_stack/">Intelligence Stack</a> creates info
 
 ### Infrastructure providers
 
-Infrastructure Providers maintain the network, provide storage and compute services.
+Infrastructure Providers maintain the network, provide storage and compute services. Infrastructure (node) providers commit to providing network capacity. They specify the workloads and capabilities they support (storage, intelligence stack services etc) and they specify the traffic throughput supported. They are compensated for providing services with stablecoins and OwnYou tokens.
+
+To start with, some services will be managed by the OwnYou foundation. However, the goal is to migrate to a decentralised infrastructure as quickly as possible. There needs to be a balance between building enough infrastructure to assess product market fit, and moving steadily towards decentralised architecture.
 
 ### Developers
 

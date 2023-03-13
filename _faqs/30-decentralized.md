@@ -1,5 +1,5 @@
 ---
-title: I don't get it, why does any of this need to be decentralized?
+title: Why is it decentralized?
 categories: [faq]
 ---
 

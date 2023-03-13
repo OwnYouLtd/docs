@@ -5,7 +5,6 @@ categories: [background, adtech, whitepaper, history]
 ---
 
 <base target="_blank">
-
 Soon after the Internet moved from the academic to the popular domain, banner advertising followed (1994). Media operators initially sold their inventory directly to media buyers and advertisers but, as the number of web pages exploded, so did the amount of display advertising inventory. It soon made sense to serve display ads via dedicated centralized ad servers operated by the likes of DoubleClick.
 
 ### DoubleClick
