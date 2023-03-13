@@ -1,10 +1,9 @@
 - title: Getting Started
   docs:
     - why
-    - what
     - how
+    - what
     - stakeholders
-    - intelligence_stack
     - how_to_use_documentation
 
 - title: Experiences and Workflows
@@ -23,6 +22,7 @@
     - personal_data_capture
     - personal_data_storage
     - verified_credential_workflow
+    - intelligence_stack
 
 - title: Business Model and Economy
   docs:
