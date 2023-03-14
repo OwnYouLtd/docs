@@ -1,12 +1,13 @@
 ---
 title: Design Goals
-subtitle:
+subtitle: OwnYou has some fundamental design principles that form the bedrock of everything we want to achieve. There is always room for discussion but the bar for change is set high.
 tags: [Experience]
 author: Blogger One
 ---
 
 <a id="top"></a>
-While OwnYou is still in development, we have a number of sacrosanct design goals and principles:
+
+<strong>Goals and principles:</strong>
 
 {:.no_toc}
 
@@ -15,8 +16,6 @@ While OwnYou is still in development, we have a number of sacrosanct design goal
 <base target="_blank">
 
 ### <span style="color: #e81313"></span>
-
-{% include image.html img="Architecture_workflow.png" lightbox="true" alt="Architecture" caption="OwnYou high-level architecture." %}
 
 ### Always decentralized
 
@@ -40,13 +39,13 @@ User volunteered data is less useful. Self-labellingis unreliable, prone to frau
 
 ### Consumers should have the right to share their data while remaining pseudonymous
 
-The more substantial the consumer relationship with an advertiser, the more likely they are to share their personal information. Ultimately, a purchase of a good or service will, in most cases, reveal personally identifiable information. We want to provide opportunities for people to share their personal data with advertisers in a way that minimizes the opportunity for third parties to build longer lasting profiles that can be used without their consent. We want to make it possible for users to share their personal profiles without the advertiser learnings more than the individual wants to share. In extremis, it should be possible for individuals to share some personal data (gender, age and broad geolocation) without revealing anything else about themselves. That information is still useful to advertisers and marginally intrusive to the consumer, especially if it can only be used to serve ads over a specific session. <a href="#"><i class="fas fa-angle-up"></i> </a>
+The more substantial the consumer advertiser relationship, the more likely the individual user will want to share their personal information. Ultimately, a purchase of a good or service will, in most cases, reveal personally identifiable information (shipping address, payment details etc). We want to provide opportunities for people to share their personal data with advertisers in a way that minimizes the opportunity for third parties to build longer lasting profiles that can be used without their consent. We want to make it possible for users to share their personal profiles without the advertiser learnings more than the individual wants to share. In extremis, it should be possible for individuals to share some personal data (gender, age and broad geolocation) without revealing anything else about themselves. That information is still useful to advertisers and marginally intrusive to the consumer, especially if it can only be used to serve ads over a specific session. <a href="#"><i class="fas fa-angle-up"></i> </a>
 
 ### Leverage the existing advertising technology stack
 
 Most alternative approaches to personal data suggest a completely new direction. Whether that be a new decentralised marketplace for connecting advertisers with consumers, or new attention tokens that help compensate publishers more fairly. While we think those are laudable ultimate objectives, embedding a new and novel approach to personal data into the existing advertising technology infrastructure maximizes the probability of early adoption. We want to disrupt, but we also want to minimize the barrier to adoption. <a href="#"><i class="fas fa-angle-up"></i> </a>
 
-### Advertisers/brands collect their own first-party data
+### First-party data should not be commingled with OwnYou personal data
 
 Sometimes, personal data is volunteered through a registration or subscription process, but often data is gathered through online and offline customers purchases. First party data is often prized above all other sources, given the relevance to the advertiser’s business and customer privacy waivers. Advertisers will often upload their first-party data onto third-party platforms, in the search for similar audiences. Leveraging personal data that relies on a customer privacy waiver is ultimately unsustainable. Helping advertisers leverage this data in an OwnYou context is challenging. Publishers will not be allowed to store OwnYou data, nor commingle data with their first party data. All OwnYou advertising transactions will need to be discrete, using only data provided by OwnYou. Above all, OwnYou will always prioritise user privacy and user needs. <a href="#"><i class="fas fa-angle-up"></i> </a>
 

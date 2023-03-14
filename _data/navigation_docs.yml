@@ -9,6 +9,7 @@
 - title: Experiences and Workflows
   docs:
     - design_goals
+    - architecture
     - individual_user_experience
     - advertising_workflow
     - advertiser_retargeting_attribution

@@ -7,7 +7,7 @@ author: Blogger One
 
 ### <span style="color: #e81313"></span>
 
-#### Verified Credentials
+### Verified Credentials
 
 The verified credential data model provides OwnYou with an efficient and secure way to prove to publishers, and ultimately advertisers, they are transacting with real human beings, with authentic credentials. Physical credentials include common forms of identification, like a passport or a driver’s license. We expect both to have digital corollaries that leverage the verified credential data model. Most, if not all, of an individual’s demographic data will be captured in a digital version of passport or driver’s license and while we do expect those to materialize, eventually, we cannot wait for global government execution. In the meantime, we will need to rely on independent commercial issuers who verify physical credentials, capture the credentials and then issue verified credentials. While this will come at a cost, the technology is advancing sufficiently quickly, with a critical mass of competition, suggesting prices will continue fall.
 

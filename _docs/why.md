@@ -39,6 +39,8 @@ The interesting thing about data is the degree to which it can add value. The mo
 
 Ownyou empowers individuals with control of their personal data, and information, through a decentralised architecture. Our community of independent machine learning experts work on open source algorithms, optimizing how to extract intelligence from raw personal data. Every interaction with publishers, advertisers, or any business, is a transaction. Transactions exchange discrete value for a service (access to a publisher's media) and payment (from advertisers for attribution).
 
+{% include image.html img="architecture2.jpg" lightbox="true" alt="architecture 2" caption="You data is processed, in a privacy preserving manner, by the intelligence stack and then exchanged, or sold, for services." %}
+
 ### The legacy advertising technology stack is entrenched
 
 While the advertising industry is under pressure to improve the way they use personal data, it is difficult for the legacy technology stack to adapt when user consent and control have been incidental to the underlying process. This makes the legacy advertising technology stack vulnerable to disruption, and we think several emerging technologies make that disruption increasingly likely. Our vision is for a decentralised community, in control of their personal data, but also engaged in developing safe and secure means to extract intelligence and value, with innovative economic incentives. There is much we can do with our data if we work on it together.
