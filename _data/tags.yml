@@ -26,3 +26,7 @@ security:
 unreleased:
   text: Unreleased
   color: "#a037ff"
+
+todo:
+  text: ToDo
+  color: "#FF4433"

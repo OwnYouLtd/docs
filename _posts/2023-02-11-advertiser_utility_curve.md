@@ -13,4 +13,4 @@ The following utility curve suggests an advertiser should be indifferent between
 More importantly, being able to accurately evaluate inventory quality has an effect on the location of the utility curve. Programmatic advertising technology providers help advertisers maximize their return on advertising spend (ROAS) while helping publishers maximize their inventory, while monetizing inefficiencies in audience targeting, brand safety, fraud mitigation, regulatory risk and a host of other factors.
 Ownyou offers a substantial improvement in visibility and, by offering genuine verifiable data on real people, with accurate representations of their needs and wants, the utility curve shifts outward; making it easier to access higher quality inventory, increasing utility.
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

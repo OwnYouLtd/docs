@@ -58,4 +58,4 @@ With Apples ATT and Google’s deprecation of GAID, probabilistic attribution is
 
 Whether it be Google’s FLEDGE or Apple’s SKAN, protecting individual privacy with cohorts and differential privacy is rapidly becoming a consensus privacy preserving strategy. It is worth touching one more of Eric’s articles to understand what this means for ROAS. Ultimately, course targeting based on cohorts of similar consumers results in an average value from a fat tail distribution; a few consumers are worth a lot to the advertisers and the rest very little. The higher value target consumers skew the mean value higher. But the average value is therefore less instructive as a signal in the bidding process, given it is skewed by a few high value consumers. When the cohort is purchased, many impressions are wasted. In other words, cohort-based advertising necessarily results in lower ROASs.
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

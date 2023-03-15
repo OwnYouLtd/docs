@@ -5,7 +5,7 @@ tags: [Experience]
 author: Blogger One
 ---
 
-We introduce publishers to new audiences, with unbeatable personal data. Why unbeatable? We use verified credentials to ensure the user is an authentic individual, with reliable demographics. That, alone, is better than most first-party data. We use the Intelligence Stack to convert raw user data into dynamic, rich, target audience profiles. Dynamic target audience profiles, with attribution, compliments contextual information. OwnYou enhances a publisher's existing business, without requiring a new reliance on more third-party advertising technology. To the contrary, publishers become valuable stakeholders in a [stakeholder owned ecosystem](/docs/docs/stakeholders).
+We introduce publishers to new audiences, with unbeatable personal data. Why unbeatable? We use verified credentials to ensure the user is an authentic individual, with reliable demographics. That, alone, is better than most first-party data. We use the Intelligence Stack to convert raw user data into dynamic, rich, target audience profiles. Dynamic target audience profiles, with attribution, compliments contextual information. OwnYou enhances a publisher's existing business, without requiring a new reliance on more third-party advertising technology. To the contrary, publishers become valuable stakeholders in a [stakeholder owned ecosystem](/docs/stakeholders).
 
 Publishers have two technical hurdles. Firstly, they need to integrate the OwnYou login process, which leverages existing federated login protocols. Secondly, they need to integrate meta data shared through the login process into their existing header-bidder wrapper. That's it.
 

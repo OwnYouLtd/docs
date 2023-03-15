@@ -30,4 +30,4 @@ Advertising remains the primary means of financing Internet content. Publishers 
 
 Approximately 80% of publisher audiences are unknown . How can a publisher best Monetise the “unknown user”, without breaching the user’s trust, and without breaking privacy regulations? More importantly, how can a publisher best convert the unregistered users into a longer-term paying subscriber? Publishers argue their content is best experience wholistically rather than one article at a time. OwnYou helps users enjoy the breadth of a publishers’ offering with the higher quality data helping publishers more effectively Monetise transient traffic. While microtransactions have historically failed, much of that has been to do with expensive intermediation and complex technology integration. OwnYou will facilitate the exchange of personal data for access, but it will also make it easy for users to pay for one-off content, to supplement the value of their data.
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

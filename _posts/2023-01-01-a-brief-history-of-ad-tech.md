@@ -37,4 +37,4 @@ A quick digression on Apple; the extraordinary growth in the company’s 2021 ad
 
 {% include image.html img="global_ad_spend.jpg" style="wide" lightbox="true" alt="Global Ad Spend (2021 vs 2020)" caption="Find more insights at Find more insight at Ebiquity" %}
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

@@ -20,4 +20,4 @@ OwnYou is not a digital identity service provider. Nevertheless, there are subst
 
 Every one of those observations matches our core objectives; putting the control of data back into the hands of the individual, proving transparency that only a truly decentralised service can provide, using an immutable record of what has been shared and with whom, and making it absolutely clear how that data has been used.
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

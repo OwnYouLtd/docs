@@ -44,4 +44,4 @@ Digital advertising fraud is expected to cost brands $44 billion in 2022 , reach
 
 In the <a href="https://www.triscari.me/" target="_blank">programmatic lemon market game</a>, success is defined by the advertiser’s ability to correctly price the quality of ad impressions sold in programmatic auctions. Advertisers should endeavour to only pay a price less than or equal to the ads intrinsic value. Intrinsic value is defined by the quality of the ad, with viewability taken as a proxy for quality; whether the ad is visible and for how long. Quality matters. Getting the rid ad in front of the right consumer, at the right time, will lead to a more favorable outcome. Too many advertisers rely on a pray and spray strategy, where CPM paid is often not sufficiently correlated with viewability, and therefore quality. While the publisher is responsible for presenting inventory correctly, OwnYou can substantially improve suitability and relevance, which will impact viewability.
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

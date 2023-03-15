@@ -1,15 +1,18 @@
 ---
-title: November Update
-date: 2018-11-11
+title: 🚀 April Updates
+date: 2023-03-15
 ---
 
-{% include tag.html tag="fixed" %}
+We are getting ready to launch the community. New site contains material from the whitepaper, with additional commentary.
 
-```html
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
+{% include tag.html tag="added" %}
+
+- introduction sections
+- sections on architecture
+- blogs for background materials on stakeholder problems and requirements
+
+{% include tag.html tag="todo" %}
+
+- complete and load Decentralization series
+- new section on grants
+- link Discord site

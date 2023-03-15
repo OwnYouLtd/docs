@@ -11,7 +11,7 @@ author: Blogger One
 
 ### Types of personal data
 
-Personal data is everywhere. Over the last thirty years, we have become used to sharing our email address for wifi access, our personal home address for access to digital content, and our telephone number for access to news. Pretty much any form of access requires some level of personal data. This will change. OwnYou hopes to be part of the change. We want to help individuals consolidate their data, super-charge it with [intelligence](/docs/docs/intelligence_stack), allowing them to harness its value. Broadly speaking, there are four different types of personal data:
+Personal data is everywhere. Over the last thirty years, we have become used to sharing our email address for wifi access, our personal home address for access to digital content, and our telephone number for access to news. Pretty much any form of access requires some level of personal data. This will change. OwnYou hopes to be part of the change. We want to help individuals consolidate their data, super-charge it with [intelligence](/docs/intelligence_stack), allowing them to harness its value. Broadly speaking, there are four different types of personal data:
 
 #### Volunteered data (PII, Social Networks, emails, images etc)
 
@@ -42,4 +42,4 @@ Intelligent Data results from an individual sharing structured and unstructured 
 
 ### Connectors
 
-OwnYou will develop easy to use connectors that plug the user's [personal data vaults](/docs/docs/personal_data_storage) into the users personal data.
+OwnYou will develop easy to use connectors that plug the user's [personal data vaults](/docs/personal_data_storage) into the users personal data.

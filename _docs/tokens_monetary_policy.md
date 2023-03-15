@@ -11,7 +11,7 @@ While transactions use stablecoins, rewards are dispensed in OwnYou governance t
 
 OwnYou takes fees in stablecoins. Fees will be used to fund public goods (platform development) and to buy and burn OwnYou tokens, helping to maintain monetary stability.
 
-OwnYou tokens help align incentives, encourage participation, and spur good governance. As we discuss in the section on [economics and incentives](/docs/docs/economics_incentives), all utility transactions are made using stablecoins.
+OwnYou tokens help align incentives, encourage participation, and spur good governance. As we discuss in the section on [economics and incentives](/docs/economics_incentives), all utility transactions are made using stablecoins.
 
 {% include image.html img="tokens.jpg" lightbox="true" alt="Token Flow" caption="OwnYou token flows." %}
 

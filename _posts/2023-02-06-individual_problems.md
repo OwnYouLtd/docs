@@ -49,4 +49,4 @@ What are the consequences of Facebook knowing more about me than my own family? 
 
 Perhaps this is unavoidable. If you share what you like, and what you do not like, over a sufficiently long period of time, the data is going to reveal much about you. OwnYou wants to level the playing field. Why shouldn’t you also have access to that knowledge? Why shouldn’t you control how that information is used. Shouldn’t you be able to Monetise it? Helping you to know yourself, without relying on some central party, forms one of OwnYou ’s core objectives; decentralised wisdom.
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

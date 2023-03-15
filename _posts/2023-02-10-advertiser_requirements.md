@@ -56,4 +56,4 @@ OwnYou does not pool user data and all underlying architecture works hard to pre
 
 The safe and compliant collection of personal data. Brand Zero Party Data (BZPD) describes data created by brands related to a specific user, stored by the user. Rather than store personal data in advertiser databases, we make it easy for brands/advertisers to store all personal data with the consumer’s themselves, in their personal data vaults. It will be easy for brands to integrate with OwnYou encrypted personal data vaults (personal data hubs) and to retrieve that data quickly. Brands will be able to query user data across millions of distributed personal data vaults.
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

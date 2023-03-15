@@ -45,4 +45,4 @@ Ownyou empowers individuals with control of their personal data, and information
 
 While the advertising industry is under pressure to improve the way they use personal data, it is difficult for the legacy technology stack to adapt when user consent and control have been incidental to the underlying process. This makes the legacy advertising technology stack vulnerable to disruption, and we think several emerging technologies make that disruption increasingly likely. Our vision is for a decentralised community, in control of their personal data, but also engaged in developing safe and secure means to extract intelligence and value, with innovative economic incentives. There is much we can do with our data if we work on it together.
 
-It starts with us taking back our privacy. It starts with you owning yourself. <a href="/docs/docs/what/">It starts with OwnYou</a>.
+It starts with us taking back our privacy. It starts with you owning yourself. <a href="/docs/what/">It starts with OwnYou</a>.

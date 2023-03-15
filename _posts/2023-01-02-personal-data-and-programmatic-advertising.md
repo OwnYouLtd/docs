@@ -34,4 +34,4 @@ Digital advertising has a purpose (develop audiences and convert users to consum
 
 The demand for tracking individuals across the Internet will always exist. Several regulators, most notably the European Parliament with their General Data Protection Regulation (GDPR), have tried to limit the amount of consumer data collected and monetized, without consumer consent. Google and Apple have stepped up their efforts to limit how cookies are used, and how consumer data can be captured through Chrome and Safari. Apple has also limited the way mobile apps use, store and share consumer data. This has left the programmatic advertising industry somewhat in disarray. It has also further concentrated power with the walled garden operators, like Facebook and, of course, Google, Amazon and Apple.
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

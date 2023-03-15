@@ -7,7 +7,7 @@ author: Nick
 
 {% include alert.html style="danger" text="We discuss stakeholder requirements, in much more detail, in dedicated sections. Here, we will walk you through three stakeholder narratives. OwnYou from a consumer, advertiser and publisher perspective." %}
 
-Note that we discuss the <a href="/docs/docs/intelligence_stack/">Intelligence Stack</a> separately.
+Note that we discuss the <a href="/docs/intelligence_stack/">Intelligence Stack</a> separately.
 
 ### The Consumer
 

@@ -47,4 +47,4 @@ Users should be able to store all their private credentials and personal data, i
 - The user, or user agent, should be able to store semantic data with the ability to retrieve it via a self-describing API (based on its schema, type etc).
 - The <a href="https://identity.foundation/decentralized-web-node/spec/" target="_blank">DIF Decentralised Web Node</a> standard should be adopted.
 
-[Disclaimer](/docs/disclaimer)
+[Disclaimer](/disclaimer/)

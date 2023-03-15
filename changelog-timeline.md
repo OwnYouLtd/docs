@@ -4,6 +4,6 @@ title: Changelog timeline
 width: small
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+This is a placeholder but as we ramp, we will be updating this section on a weekly basis.
 
 {% include changelog.html %}
