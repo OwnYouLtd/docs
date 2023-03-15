@@ -2,7 +2,7 @@
 title: Stakeholders
 subtitle: There are six stakeholders in the OwnYou ecosystem, each with incentives and specific requirements; individuals, advertisers, publishers, the Intelligence Stack, infrastructure providers and developers. Each group contributes, and extracts value, from the platform in an equatable and sustainable manner. OwnYou is a community, an ecosystem, a market, and an economy where stakeholder needs are served equitably, in a sustainable and regenerative system.
 tags: [stakeholders, mission, vision]
-author: Nick
+author: Blogger colour pink
 ---
 
 {% include image.html img="stakeholders3.jpg" lightbox="true" alt="stakeholders" caption="Key stakeholders in the OwnYou ecosystem." %}

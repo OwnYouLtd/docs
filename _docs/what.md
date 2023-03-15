@@ -2,7 +2,7 @@
 title: What
 subtitle: Technology that makes OwnYou possible.
 tags: [how, genesis, mission, vision]
-author: Nick
+author: Blogger colour green
 ---
 
 {% include alert.html style="danger" text="<strong>OwnYou's architecture pulls together components from several powerful fields</strong>; Blockchains, Cryptography, Zero Knowledge Proofs and Self Sovereign Identity (SSI). Each of these fields has, over the last decade, exploded with new ideas, and practical developments. It is not good enough to have a good idea. For an idea to develop into a usable product, two other factors need to align; product market fit and the availability of technology primitives. In mathematical theory, primitives act as building blocks for new theories. The same concept applies when developing a new technology platform. In OwnYou's case, we rely on a number of important building blocks across blockchain technologies, cryptography, zero-knowledge proofs and SSI." %}

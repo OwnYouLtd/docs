@@ -39,6 +39,10 @@ authors:
     name: Nick
     title: " "
     avatar: avatar-nick.png
+  nick:
+    name: " "
+    title: " "
+    avatar: avatar-nick.png
   CTO:
     name: You
     title: CTO
@@ -75,6 +79,26 @@ authors:
     name: " "
     title: OwnYou Blogger Four
     avatar: avatar-al3.png
+  Blogger colour blue:
+    name: " "
+    title: OwnYou Blogger Blue
+    avatar: avatar_logo_b.png
+  Blogger colour green:
+    name: " "
+    title: OwnYou Blogger Green
+    avatar: avatar_logo_g.png
+  Blogger colour pink:
+    name: " "
+    title: OwnYou Blogger Pink
+    avatar: avatar_logo_p.png
+  Blogger colour yellow:
+    name: " "
+    title: OwnYou Blogger Yellow
+    avatar: avatar_logo_y.png
+  Blogger colour blue light:
+    name: " "
+    title: OwnYou Blogger Blue Light
+    avatar: avatar_logo_bb.png
 
 # Social icons displayed in footer
 social:
