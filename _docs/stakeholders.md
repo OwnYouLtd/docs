@@ -9,7 +9,7 @@ author: Nick
 
 ### Individuals
 
-Individuals, or consumer users, contribute personal data and consume publishing content and advertising. Individuals, and their agents, control their personal data, and information is only shared pseudonymously, using one time decentralized identifiers (or DIDs). Sharing information helps them access content and receive monetary rewards. OwnYou is not an attention system. Users will not be asked to watch ads, or participate in surveys, for the sake of rewards. Rewards are a function of normal user behavior. Our blogs on individual user <a href="/docs/individual_problems/">problems</a>, <a href="/docs/individual_requirements/">requirements</a> and <a href="/docs/individual_influencers/">incentives</a>, will help you better understand their motivations and needs.
+Individuals, or consumer users, contribute personal data and consume publishing content and advertising. Individuals, and their agents, control their personal data, and information is only shared pseudonymously, using one time decentralized identifiers (or DIDs). Sharing information helps them access content and receive monetary rewards. OwnYou is not an attention system. Users will not be asked to watch ads, or participate in surveys, for the sake of rewards. Rewards are a function of normal user behavior. Our blogs on individual user <a href="/individual_problems/">problems</a>, <a href="/docs/individual_requirements/">requirements</a> and <a href="/docs/individual_influencers/">incentives</a>, will help you better understand their motivations and needs.
 
 ### Advertisers
 
