@@ -2,7 +2,7 @@
 title: Easter Egg Marketing
 subtitle: Personalized local discounts. Marketers benefit from local demand trends with a new toolbox to gamify localized marketing.
 tags: [Experience]
-author: Blogger One
+author: Blogger colour blue
 ---
 
 ### <span style="color: #e81313"></span>

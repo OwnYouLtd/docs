@@ -2,7 +2,7 @@
 title: Individual User Experience
 subtitle: Why will OwnYou be popular, beyond early adopters and those interested in the self-sovereign identity movement? How does OwnYou move from a cold start to becoming the standard in personal data custody?
 tags: [Experience]
-author: Blogger One
+author: Blogger colour blue
 ---
 
 ### <span style="color: #e81313"></span>

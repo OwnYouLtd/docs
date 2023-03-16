@@ -2,20 +2,18 @@
 title: Design Goals
 subtitle: OwnYou has some fundamental design principles that form the bedrock of everything we want to achieve. There is always room for discussion but the bar for change is set high.
 tags: [Experience]
-author: Blogger One
+author: Blogger colour blue
 ---
 
 <a id="top"></a>
 
-<strong>Goals and principles:</strong>
+### Goals and principles
 
 {:.no_toc}
 
 - TOC
 {:toc}
-<base target="_blank">
-
-### <span style="color: #e81313"></span>
+<!-- -->
 
 ### Always decentralized
 

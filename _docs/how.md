@@ -2,7 +2,7 @@
 title: How
 subtitle: OwnYou makes it easy for individuals to convert their raw data into intelligent profiles. Publishers get access to much higher quality reader meta data, increasing the value of their inventory, and advertisers reach the most relevant audience, reducing wasted advertising spend, improving ROI. Helping individuals monetize their personal data, psuedonimously, converts the experience from predatory to transactional.
 tags: [what, genesis, mission, vision]
-author: Blogger colour blue light
+author: Nick
 ---
 
 {% include alert.html style="danger" text="We discuss stakeholder requirements, in much more detail, in dedicated sections. Here, we will walk you through three stakeholder narratives. OwnYou from a consumer, advertiser and publisher perspective." %}

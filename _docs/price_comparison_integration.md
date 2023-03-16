@@ -2,7 +2,7 @@
 title: Dynamic Price Comparison
 subtitle: OwnYou innovates by using personal data to dynamically search for better deals, without users having to share any personally identifiable information.
 tags: [Experience, price_comparison, individuals]
-author: Blogger One
+author: Blogger colour blue
 ---
 
 <span style="color: #e81313">Dynamic price comparison helps individuals optimise their service provider relationships</span>.

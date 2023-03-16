@@ -2,7 +2,7 @@
 title: Architecture
 subtitle: OwnYou's high level architecture
 tags: [Experience]
-author: Blogger One
+author: Blogger colour blue
 ---
 
 OwnYou's architecture consists of the [Intelligence Stack](/docs/intelligence_stack/), including [personal data capture](/docs/personal_data_capture) and [storage](/docs/personal_data_storage), a [verified credential protocol](/docs/verified_credential_workflow) and a [digital wallet](/docs/digital_wallet) connecting to different business entity workflows.

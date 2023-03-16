@@ -2,7 +2,7 @@
 title: Advertiser Retargeting and Attribution
 subtitle: Retargeting and attribution are fundamental components of any advertiser campaign life-cycle. Advertisers know when and how to retarget individuals with the same campaign, balancing exposure with exhaustion. Advertisers must be able to measure whether, and how, advertising campaigns have resulted in purchases. Attribution is critical component of any successful advertising campaign.
 tags: [Experience]
-author: Blogger One
+author: Blogger colour blue
 ---
 
 ### <span style="color: #e81313"></span>

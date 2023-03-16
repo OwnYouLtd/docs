@@ -2,7 +2,7 @@
 title: Advertising Workflow
 subtitle: Advertisers need to know where to show their ads and who to show them to. They need to know when ads have worked, and whether one creative is more effective than another. Ultimately, advertisers want to know how to invest most effectively across all their campaigns.
 tags: [Experience]
-author: Blogger One
+author: Blogger colour blue
 ---
 
 {% include image.html img="ad_cycle.jpg" lightbox="true" alt="Advertising Cycle" caption="The OwnYou advertising cycle." %}

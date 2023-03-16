@@ -2,7 +2,7 @@
 title: Why
 subtitle: Our mission is to build tools that allow individuals to take back control of their personal data, generate intelligence, and monetize it. OwnYou's infrastructure plugs directly into the existing advertising technology stack, and can easily be adapted for dynamic price comparison, customized marketing, and entertainment. OwnYou is an open sourced decentralized venture, that puts the power back into the hands and people, and helps businesses connect to, and covert, high quality audiences. Real people, real data, real-time attribution.
 tags: [why, genesis, mission, vision]
-author: Blogger colour blue
+author: Nick
 ---
 
 ### <span style="color: #e81313"> A radical new approach</span>

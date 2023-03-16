@@ -2,7 +2,7 @@
 title: Publisher Experience
 subtitle: Publishers implement a new login process in exchange for higher quality user data, orders of magnitude higher than first-party data.
 tags: [Experience]
-author: Blogger One
+author: Blogger colour blue
 ---
 
 We introduce publishers to new audiences, with unbeatable personal data. Why unbeatable? We use verified credentials to ensure the user is an authentic individual, with reliable demographics. That, alone, is better than most first-party data. We use the Intelligence Stack to convert raw user data into dynamic, rich, target audience profiles. Dynamic target audience profiles, with attribution, compliments contextual information. OwnYou enhances a publisher's existing business, without requiring a new reliance on more third-party advertising technology. To the contrary, publishers become valuable stakeholders in a [stakeholder owned ecosystem](/docs/stakeholders).
