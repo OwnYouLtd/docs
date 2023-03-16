@@ -1,15 +1,15 @@
 ---
 title: Stakeholders
-subtitle: There are six stakeholders in the OwnYou ecosystem, each with incentives and specific requirements; individuals, advertisers, publishers, the Intelligence Stack, infrastructure providers and developers. Each group contributes, and extracts value, from the platform in an equatable and sustainable manner. OwnYou is a community, an ecosystem, a market, and an economy where stakeholder needs are served equitably, in a sustainable and regenerative system.
+subtitle: OwnYou has six stakeholders - individuals, advertisers and businesses, publishers, the Intelligence Stack, infrastructure providers, and developers. Each group contributes to, and benefits from, the platform in an equitable and sustainable way. OwnYou is a community, an ecosystem, a market, and an economy. It strives to serve the needs of its stakeholders, creating a regenerative system, to everyone's benefit.
 tags: [stakeholders, mission, vision]
 author: Nick
 ---
 
-{% include image.html img="stakeholders3.jpg" lightbox="true" alt="stakeholders" caption="Key stakeholders in the OwnYou ecosystem." %}
+{% include image.html img="stakeholders.jpg" lightbox="true" alt="stakeholders" caption="Key stakeholders in the OwnYou ecosystem." %}
 
 ### Individuals
 
-Individuals, or consumer users, contribute personal data and consume publishing content and advertising. Individuals, and their agents, control their personal data, and information is only shared pseudonymously, using one time decentralized identifiers (or DIDs). Sharing information helps them access content and receive monetary rewards. OwnYou is not an attention system. Users will not be asked to watch ads, or participate in surveys, for the sake of rewards. Rewards are a function of normal user behavior. Our blogs on individual user <a href="/individual_problems/">problems</a>, <a href="/individual_requirements/">requirements</a> and <a href="/individual_influencers/">incentives</a>, will help you better understand their motivations and needs.
+Individuals, or consumer users, contribute personal data and consume publishing content, advertising and business services. Individuals, and their agents, control their personal data, and information is only shared pseudonymously, using one time decentralized identifiers (or DIDs). Sharing information helps individuals access content, and receive monetary rewards. OwnYou is not an attention system. Users will not be asked to watch ads, or participate in surveys, for the sake of rewards. Rewards are a function of normal user behavior. Our blogs on individual user <a href="/individual_problems/">problems</a>, <a href="/individual_requirements/">requirements</a> and <a href="/individual_influencers/">incentives</a>, will help you better understand their motivations and needs.
 
 ### Advertisers
 

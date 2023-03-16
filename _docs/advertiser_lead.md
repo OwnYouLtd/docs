@@ -20,3 +20,6 @@ You buy into our mission.
 You share our values.
 
 You get shit done.
+
+If you are this person - please [reach out immediately](https://calendly.com/nlongcroft-1/intro-call).
+Please attach you CV, LinkedIn page, or anything else that helps me get to know you.
