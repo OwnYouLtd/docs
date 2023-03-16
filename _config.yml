@@ -39,6 +39,7 @@ authors:
     name: Nick
     title: " "
     avatar: avatar-nick.png
+    url: /docs/nick
   nick:
     name: " "
     title: " "
@@ -47,6 +48,7 @@ authors:
     name: You
     title: CTO
     avatar: avatar-cto4.png
+    url: /docs/chief_technology_officer
   # Lead Developer:
   #   name: You
   #   title: Lead Developer
@@ -55,14 +57,17 @@ authors:
     name: You
     title: Community Builder
     avatar: avatar-cm3.png
+    url: /docs/community_builder
   Publisher Lead:
     name: You
     title: Publisher Lead
     avatar: avatar-pl.png
+    url: publisher_lead
   Advertiser Lead:
     name: You
     title: Advertiser Lead
     avatar: avatar-al3.png
+    url: advertiser_lead
   Blogger One:
     name: " "
     title: OwnYou Blogger One

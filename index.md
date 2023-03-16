@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
   title: Our Personal Data Revolution
-  subtitle: Everyone wants your personal data. You want access to the best content, and the goods and services that improve your life. We make it easy for you to generate intelligence from your own personal data. You can use that intelligence to access media, get the juiciest discounts on the things you want, when you most want them, and make money. OwnYou is not another middle man, but instead an open source, decentralized, community of stakeholders. Welcome to the Decentralized Web. Welcome to OwnYou!
+  subtitle: We make it easy for you to generate intelligence from your own personal data. You can use that intelligence to access media, get the juiciest discounts on the things you want, when you most want them, and make money. OwnYou is not another middleman but an open source, decentralized, community of stakeholders. Welcome to the Decentralized Web. Welcome to OwnYou!
   image: OwnYou logo 101.jpg
   search: true
 ---
@@ -12,7 +12,20 @@ hero:
 
 {% include faqs.html multiple="true" title="Frequently asked questions" category="faq" subtitle="Find quick answers to frequently asked questions" %}
 
-{% include cta.html title="OwnYou Community - get stuck in!" button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us on Twitter, Discord or use the Contact Us button below. What interests you?" %}
+{% include cta.html
+    title="OwnYou Community - get stuck in!"
+    subtitle="Get in touch with us on Discord or Github, DM Nick or fill in the Contact form."
+    button_text="Join our Discord Server"
+    button_url="https://discord.gg/mpzTWASfw7"
+    button2_text="Github Discussions"
+    button2_url="https://github.com/OwnYouLtd/docs/discussions/1"
+    button3_text="DM Nick"
+    button3_url="https://twitter.com/nlongcroft"
+    button4_text="Contact Us"
+    button4_url="/contact/"
+%}
+
+<!-- {% include cta.html title="OwnYou Community - get stuck in!" button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us on Twitter, Discord or use the Contact Us button below. What interests you?" %} -->
 
 {% include team.html authors="Nick, CTO, Community Manager, Publisher Lead, Advertiser Lead" title="OwnYou Team" subtitle="While this is an open source development initiative we still need a small team to support the community" %}
 

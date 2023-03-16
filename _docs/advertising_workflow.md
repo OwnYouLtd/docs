@@ -1,6 +1,6 @@
 ---
 title: Advertising Workflow
-subtitle: Advertisers need to know where to show their ads and who to show them to. They need to know when ads have worked, and whether one creative is more effective than another. Ultimately, advertisers want to know how to invest most effectively across all their campaigns.
+subtitle: Advertisers want to display their ads to the most relevant audience, for the best price. They need to know when advertising has been effective, and whether one creative is more engaging than another. Ultimately, advertisers want to know how to invest most effectively across all their campaigns.
 tags: [Experience]
 author: Blogger colour blue
 ---
