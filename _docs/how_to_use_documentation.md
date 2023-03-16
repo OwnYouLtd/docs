@@ -5,4 +5,12 @@ tags: [documentation, genesis, github]
 author: Nick
 ---
 
-In the Getting Started section, we provide a high level overview of our mission, platform deliverables and building blocks. In the following sections we establish what problems need fixing, we explore what stakeholders want before suggesting solutions. Our suggested architecture leverages existing protocols and primitives while identifying boundaries and limitations that require further research and development. Some of the material will reference background material available in our blogs, including a brief history of digital advertising where we introduce the existing advertising technology stack, before introducing cookies, their impact on privacy, subsequent deprecation, and related fallout. The following sections will be broken down in to key stakeholder perspective. We discuss why the current status quo is problematic for people, publishers, and advertisers. Finally, we conclude with our solution, outlining both architecture and product. Please refer to the appendix at the end of the document for important terminology.
+In the Getting Started section, we provide a high level overview of our mission, how it impacts key stakeholders and the important building blocks.
+
+In the following section, Experiences and Workflows, we walk you through a high level architecture before expanding on the individual user, advertiser and publisher value propositions. While the Blogs provide background material on the problems we want to solve, and what we think matters most to each stakeholder, the main documentation discusses the solution.
+
+We also introduce the Dynamic Price Comparison model, and Easter Egg marketing.
+
+The Building Blocks section introduces the main technology components and the section on the Business Model and Economy will help you understand how money flows and to whom it flows.
+
+Finally, the Team section introduces current, and prospective, team members.
