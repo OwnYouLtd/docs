@@ -9,7 +9,6 @@
 - title: Experiences and Workflows
   docs:
     - design_goals
-    - architecture
     - individual_user_experience
     - advertising_workflow
     - advertiser_retargeting_attribution
@@ -19,6 +18,7 @@
 
 - title: Building Blocks
   docs:
+    - technology_primitives
     - digital_wallet
     - personal_data_capture
     - personal_data_storage
