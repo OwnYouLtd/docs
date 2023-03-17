@@ -1,15 +1,17 @@
 ---
 title: Why
-subtitle: Our mission is to build tools that allow individuals to take back control of their personal data, generate intelligence, and monetize it. OwnYou's infrastructure plugs directly into the existing advertising technology stack, and can easily be adapted for dynamic price comparison, customized marketing, and entertainment.
+subtitle: Our mission is to build tools that allow individuals to take back control of their personal data, generate intelligence, and monetize it. OwnYou's infrastructure plugs directly into pre-existing advertising technology, and can easily be adapted for dynamic price comparison, customized marketing, and entertainment.
 tags: [why, genesis, mission, vision]
 author: Nick
 ---
 
 ### <span style="color: #e81313"> A radical new approach</span>
 
-The legacy advertising technology stack is vulnerable to disruption, and we think several emerging technologies make that disruption increasingly likely. It is difficult for the legacy technology stack to adapt when user consent and control have been incidental to the underlying process. Our vision is for a decentralized community, in control of their personal data, but also engaged in developing safe and secure means to extract intelligence and value, with innovative economic incentives.
+The current digital advertising industry is vulnerable to disruption. Consumers and regulators are demanding that privacy comes first, but it is difficult for the legacy digital advertising industry to adapt when privacy protection, and personal data sovereignty, have been incidental to the underlying digital advertising process which harvests personal data, and then figures out how to protect the user. OwnYou takes a transactional approach where the individual consolidates their own data, the individual creates the intelligence advertiser's need, and the individual monetizes that intelligence.
 
 By making it easy for individuals to consolidate their personal data, and by connecting them to a community of machine learning specialist, we make it possible for individuals to create valuable, high resolution, personal profiles far superior to anything currently available.
+
+Our vision is for a decentralized community, in control of their personal data, and engaged in developing the means to extract intelligence and value, with innovative economic incentives.
 
 {% include image.html img="why.png" lightbox="true" alt="Alt for image" caption="Your data feeds your intelligent profiles, which you share with businesses for services and money" %}
 
