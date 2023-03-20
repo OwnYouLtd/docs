@@ -5,7 +5,7 @@ tags: [Experience]
 author: Nick
 ---
 
-From an technology perspective, there are five main components to OwnYou:
+From a technology perspective, there are five main components to OwnYou:
 
 1. The [Intelligence Stack](/docs/intelligence_stack/), which includes [personal data capture](/docs/personal_data_capture) and [storage](/docs/personal_data_storage). This suite of technologies allow individual users to store and control their raw data, while running third party machine learning algorithms to convert that data into intelligent profiles they can monetize.
 2. [Verified credential protocols and workflows](/docs/verified_credential_workflow). OwnYou will not create identity Verified Credentials but instead it will interoperate with [Verified Credential Issuers](https://verifiablecredentials.dev/), making it easy for Individual users to store and present their credentials in a privacy preserving manner, as part of various business application workflows. OwnYou may use verified credential workflows to store and present attribution data for advertisers, which we describe in the section on [Advertising Workflows](/docs/advertising_workflow).
