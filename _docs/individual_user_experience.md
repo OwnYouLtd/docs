@@ -13,22 +13,22 @@ author: Blogger colour blue
 
 ### Take control of your personal data – Own You
 
-This sets the tone for everything else around which OwnYou is built. Everyone likes to make a little “free” money. Of course, nothing about your personal data is free, however, since users generally do not currently Monetise their personal data, the additional funds will be appreciated and valued. But the user experience matters more than the money:
+This sets the tone for everything else around which OwnYou is built. We help people make money from their personal data with a simple to use, fun and engaging user experience.
 
-- OwnYou needs to be easy,
-- it needs to be fun,
-- it needs to be positive.
+- The OwnYou user application will be easy to use,
+- it will be fun, and
+- it will generate income.
 
-Early adopters might be willing to struggle through a poorly designed interface (as one hundred million crypto users will attest to), but an engaging user experience (UX) is an absolute day one requirement for any application that needs users to commit to an unfamiliar decentralised architecture. For OwnYou to succeed, we need users to upload their personal data – user commitment is important.
+While early adopters might be willing to struggle through a poorly designed user interface (as one hundred million crypto users will attest to), an engaging user experience (UX) is a day one requirement for any application that needs users to commit to an unfamiliar decentralized architecture. For OwnYou to succeed, we need users to upload their personal data, and we need them to trust the application. Complete user commitment is important because the more personal data they upload, the richer the intelligence inferred.
 
 A dramatic narrative around big tech stealing your personal data will tire quickly, and we do not believe a negative message sustains momentum to a hundred million users. Instead, a positive message around ownership, control and reward is more likely to get sustainable traction. Our first UX will include the following features:
 
-- An OwnYou avatar where the more data the user uploads, the more personalisation options.
-- Additional OwnYou tokens for the first x number of users to reach upload thresholds.
-- “Know yourself” trivia (see next item, 12.4).
+- An OwnYou avatar where the more data the user uploads, the more items available for personalizing the avatar.
+- Additional OwnYou tokens for the first 10,000 users to reach specific upload thresholds.
+- “Know yourself” trivia.
 - “Do you think you know me” games that can be shared with other users.
 - Ranking system to show the user’s sharing percentile.
-- Rankings and percentiles on monetisation.
+- Rankings and percentiles on monetization.
 
 All data will be sourced from OwnYou business services.
 

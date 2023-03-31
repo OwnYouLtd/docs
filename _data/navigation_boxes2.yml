@@ -1,0 +1,16 @@
+# Boxes include navigation
+
+- title: An Application
+  desc: OwnYou is an application offering an engaging and rewarding individual user experience.
+  icon: bolt
+  doc: individual_user_experience
+
+- title: Infrastructure
+  desc: OwnYou is infrastructure, leveraged by businesses to access uniquely high quality personal data, safely and legitimately.
+  icon: git-branch
+  doc: what
+
+- title: A Network
+  desc: OwnYou is a network of stakeholders all contributing value, and benefiting from rewards, in an equitable and sustainable manner.
+  icon: social
+  doc: stakeholders

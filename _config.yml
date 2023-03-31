@@ -140,7 +140,7 @@ disqus:
 google_analytics:
 
 # Number of posts displayed on blog page
-paginate: 10
+paginate: 25
 
 # Blog path
 paginate_path: "/blog/:num/"
