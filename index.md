@@ -10,7 +10,7 @@ hero:
 
 <!-- image: OwnYou logo 101.jpg -->
 
-{% include image.html img="architecture7.jpg" lightbox="false" alt="Architecture" caption="" %}
+{% include image.html img="architecture8.jpg" lightbox="false" alt="Architecture" caption="" %}
 
 {% include boxes2.html columns="3" title="What is OwnYou?" subtitle="OwnYou is..." %}
 
