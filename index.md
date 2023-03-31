@@ -4,9 +4,13 @@ width: expand
 hero:
   title: Our Personal Data Revolution
   subtitle: We make it easy for people to generate intelligence from their personal data. They can use that intelligence to access media, get the juiciest discounts on the things they want, when they most want them, and make money. We make it easy for businesses to connect to real people, providing value in exchange for personal data. OwnYou is an open source, decentralized, community of stakeholders. Welcome to the Decentralized Web. Welcome to OwnYou!
-  image: OwnYou logo 101.jpg
+  image: avatar-al3.png
   search: false
 ---
+
+<!-- image: OwnYou logo 101.jpg -->
+
+{% include image.html img="architecture7.jpg" lightbox="false" alt="Architecture" caption="" %}
 
 {% include boxes2.html columns="3" title="What is OwnYou?" subtitle="OwnYou is..." %}
 
