@@ -13,13 +13,13 @@ author: Blogger colour blue
 
 ### Take control of your personal data – Own You
 
-This sets the tone for everything else around which OwnYou is built. We help people make money from their personal data with a simple to use, fun and engaging user experience.
+We help people make money from their personal data with a simple to use, fun and engaging user experience.
 
 - The OwnYou user application will be easy to use,
 - it will be fun, and
 - it will generate income.
 
-While early adopters might be willing to struggle through a poorly designed user interface (as one hundred million crypto users will attest to), an engaging user experience (UX) is a day one requirement for any application that needs users to commit to an unfamiliar decentralized architecture. For OwnYou to succeed, we need users to upload their personal data, and we need them to trust the application. Complete user commitment is important because the more personal data they upload, the richer the intelligence inferred.
+While early adopters may struggle through a poorly designed user interface (as a hundred million crypto users will attest to), an engaging user experience (UX) is a day one requirement for any application that needs users to commit to an unfamiliar decentralized architecture. For OwnYou to succeed, we need users to upload their personal data, and we need them to trust the application. Complete user commitment is important because the more personal data they upload, the richer the intelligence inferred.
 
 A dramatic narrative around big tech stealing your personal data will tire quickly, and we do not believe a negative message sustains momentum to a hundred million users. Instead, a positive message around ownership, control and reward is more likely to get sustainable traction. Our first UX will include the following features:
 
