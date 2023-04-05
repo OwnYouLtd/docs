@@ -7,7 +7,7 @@ author: Blogger colour blue
 
 <a id="top"></a>
 
-### Goals and principles
+<span style="color: #e81313; font-size: 24px; font-style: normal">Goals and principles</span>
 
 {:.no_toc}
 

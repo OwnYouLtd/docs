@@ -2,7 +2,7 @@
 title: Advertising Workflow
 subtitle: Advertisers want to display their ads to the most relevant audience, for the best price. They need to know when advertising has been effective, and whether one creative is more engaging than another. Ultimately, advertisers want to know how to invest most effectively across all their campaigns.
 tags: [Experience]
-author: Blogger colour blue
+author: ""
 ---
 
 {% include image.html img="ad_cycle.jpg" lightbox="true" alt="Advertising Cycle" caption="The OwnYou advertising cycle." %}

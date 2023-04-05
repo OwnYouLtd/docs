@@ -1,15 +1,23 @@
 ---
 title: The Application
-subtitle: The application makes it easy for individuals to connect all their personal data and create intelligent profiles. The app will make it easy for users to log onto websites using the OwnYou login (without the need to remember passwords). It acts as a gateway to user experiences, such as dynamic price comparisons and customized marketing (Easter Eggs). Individuals generate income by sharing their intelligence profiles with advertisers, and other business, and they can use the app to spend it (accessing media that would otherwise be behind a paywall), or they can wire the funds to their bank account.
+subtitle: The OwnYou application makes it easy for individuals to connect all their personal data and create intelligent profiles. The app will make it easy for users to log onto websites using the OwnYou login (without the need to remember passwords). It acts as a gateway to user experiences, such as dynamic price comparisons and customized marketing (Easter Eggs). Individuals generate income by sharing their intelligent profiles with advertisers and marketers, and they can use the app to spend that income (accessing media that would otherwise be behind a paywall), or wire it to their bank account.
 tags: [Experience]
-author: Blogger colour blue
+author: ""
 ---
 
-### <span style="color: #e81313"></span>
-
-### Six individual user value propositions
-
 {% include image.html img="mockup2.jpg" lightbox="false" alt="Individual User Value Proposition" caption="The individual user experience" style="width:10% !important; height:10% !important;" %}
+
+<span style="color: #e81313; font-size: 24px; font-style: normal">Six individual user value propositions</span>
+
+{:.no_toc}
+
+- TOC
+{:toc}
+<!-- -->
+
+### Advertising that pays you
+
+The application helps users connect their raw personal data and, with the help of the [Intelligence Stack](/docs/intelligence_stack), convert that data into intelligence for advertisers and, other business uses cases. As we discuss in the [Advertising Workflow](/docs/advertising_workflow), businesses want to connect to authentic, relevant, users. The user app makes it easy for individuals to connect with businesses, and make money in the process.
 
 ### Take control of your personal data – Own You
 
