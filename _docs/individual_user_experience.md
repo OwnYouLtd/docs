@@ -1,6 +1,6 @@
 ---
-title: Individual User Experience
-subtitle: Why will OwnYou be popular, beyond early adopters and those interested in the self-sovereign identity movement? How does OwnYou move from a cold start to becoming the standard in personal data custody?
+title: The Application
+subtitle: The application makes it easy for individuals to connect all their personal data and create intelligent profiles. The app will make it easy for users to log onto websites using the OwnYou login (without the need to remember passwords). It acts as a gateway to user experiences, such as dynamic price comparisons and customized marketing (Easter Eggs). Individuals generate income by sharing their intelligence profiles with advertisers, and other business, and they can use the app to spend it (accessing media that would otherwise be behind a paywall), or they can wire the funds to their bank account.
 tags: [Experience]
 author: Blogger colour blue
 ---
@@ -9,7 +9,7 @@ author: Blogger colour blue
 
 ### Six individual user value propositions
 
-{% include image.html img="individual_value.jpg" lightbox="true" alt="Individual User Value Proposition" caption="The individual user experience" %}
+{% include image.html img="mockup2.jpg" lightbox="false" alt="Individual User Value Proposition" caption="The individual user experience" style="width:10% !important; height:10% !important;" %}
 
 ### Take control of your personal data – Own You
 
