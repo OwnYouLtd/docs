@@ -7,7 +7,7 @@ author: ""
 
 {% include image.html img="mockup3.jpg" lightbox="false" alt="Individual User Value Proposition" caption="The individual user experience" style="width:10% !important; height:10% !important;" %}
 
-<span style="color: #e81313; font-size: 24px; font-style: normal">Six individual user value propositions</span>
+<STRONG><span style="color: #e81313; font-size: 24px; font-style: normal">Six individual user value propositions</span></STRONG>
 
 {:.no_toc}
 
