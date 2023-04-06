@@ -10,9 +10,11 @@ hero:
 
 <!-- image: OwnYou logo 101.jpg -->
 
-{% include image.html img="architecture_tight.jpg" lightbox="false" alt="Architecture" caption="" half_width=true%}
+{% include image.html img="architecture_tight.jpg" lightbox="false" alt="Architecture" caption="" half_width=true mobile_size=true %}
 
 {% include boxes2.html columns="3" title="What is OwnYou?" subtitle="OwnYou is..." %}
+
+{% include image.html img="mockup3.jpg" lightbox="false" alt="Application" caption="" half_width=true mobile_size=true %}
 
 {% include boxes.html columns="3" title="Browse Topics" subtitle="Getting Started with the..." %}
 
