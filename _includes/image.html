@@ -13,14 +13,13 @@
     %}
   >
     <img
-      class="full-width-mobile half-width-desktop"
+      class="{% if include.half_width %}half-width-desktop {% endif %}{% if include.mobile_size %}full-width-mobile {% endif %}{% if !include.half_width and !include.mobile_size %}no-resize {% endif %}"
       style="
-        width: 95%;
-        max-width: 60%;
         height: auto;
         margin-left: auto;
         margin-right: auto;
         display: block;
+        {% if include.mobile_size %} width: 95%; {% elsif include.half_width %} width: 60%; max-width: 60%; {% endif %}
       "
       src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"
       {%
@@ -45,14 +44,13 @@
 {% else %}
 <figure>
   <img
-    class="full-width-mobile half-width-desktop"
+    class="{% if include.half_width %}half-width-desktop {% endif %}{% if include.mobile_size %}full-width-mobile {% endif %}{% if !include.half_width and !include.mobile_size %}no-resize {% endif %}"
     style="
-      width: 95%;
-      max-width: 60%;
       height: auto;
       margin-left: auto;
       margin-right: auto;
       display: block;
+      {% if include.mobile_size %} width: 95%; {% elsif include.half_width %} width: 60%; max-width: 60%; {% endif %}
     "
     src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"
     {%

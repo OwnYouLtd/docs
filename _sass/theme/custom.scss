@@ -1,18 +1,13 @@
-@media only screen and (max-width: 767px) {
+@media (max-width: 767px) {
   .full-width-mobile {
-    max-width: 95% !important;
-  }
-  .half-width-desktop {
-    max-width: 100% !important;
+    width: 95% !important;
+    max-width: none !important;
   }
 }
 
-@media only screen and (min-width: 768px) {
-  .full-width-mobile {
-    max-width: 95% !important;
-  }
+@media (min-width: 768px) {
   .half-width-desktop {
-    max-width: 65% !important;
+    width: 60% !important;
+    max-width: 60% !important;
   }
 }
-//change
