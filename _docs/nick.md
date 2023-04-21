@@ -1,6 +1,6 @@
 ---
 title: Nick
-subtitle: Founder - ultimately responsible for everything
+subtitle: Founder, architect, evangelist
 tags: [Experience]
 author: Nick
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chief Technology Officer
-subtitle: Responsible for implementing the OwnYou Technology
+subtitle: Responsible for the OwnYou technology stack
 tags: [Experience]
 author: Nick
 ---
