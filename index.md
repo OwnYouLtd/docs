@@ -26,7 +26,7 @@ hero:
     button_text="Join our Discord Server"
     button_url="https://discord.gg/mpzTWASfw7"
     button2_text="Github Discussions"
-    button2_url="https://github.com/OwnYouLtd/docs/discussions/1"
+    button2_url="https://github.com/OwnYouLtd"
     button3_text="DM Nick"
     button3_url="https://twitter.com/nlongcroft"
     button4_text="Contact Us"
