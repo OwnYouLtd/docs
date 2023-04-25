@@ -32,4 +32,4 @@ You are long term greedy.
 You get _stuff_ done.
 
 If you are this person - please [reach out immediately](https://calendly.com/nlongcroft-1/intro-call).
-Please attach you CV, LinkedIn page, or anything else that helps me get to know you.
+Please attach your CV, LinkedIn page, or anything else that helps me get to know you.
