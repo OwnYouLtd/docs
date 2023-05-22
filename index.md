@@ -4,7 +4,7 @@ width: expand
 hero:
   title: You Are Valuable
   subtitle: We make it easy for people to generate intelligence from their personal data. They can use that intelligence to access media, get the juiciest discounts on the things they want, when they most want them, and make money. We make it easy for businesses to connect to real people, providing value in exchange for personal data. OwnYou is an open source, decentralized, community of stakeholders. Welcome to the Decentralized Web. Welcome to OwnYou!
-  image: avatar-al3.png
+  video: kaiber_nine_year_old_tennis.mp4
   search: false
 ---
 
@@ -20,7 +20,7 @@ hero:
 
 <center>
 <video width="320" height="240" autoplay loop muted playsinline>
-  <source src="/uploads/kaiber_nine_year_old_tennis.mp4" type="video/mp4">
+  <source src="/uploads/kaiber_happy_girl.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </center>
