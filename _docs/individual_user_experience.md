@@ -46,12 +46,29 @@ As OwnYou gathers momentum, gamification will need to evolve from avatars and ra
 
 Your personal data reveals a lot about who you are. The more you add, the more you are likely to learn. Gamifying the “getting to know yourself” process has enormous potential. Users can opt to share the data with privacy preserving comparison metrics; “did you know you are 75% more likely to buy a holiday this week than at any other time in the year”. Tying metrics into offers, so users can see why they are being offered certain ads and promotions, inverts the notion of surveillance advertising; your data, which only you can see, is driving this type of marketing. You can see all these offers because of your likely willingness to make a particular purchase, now.
 
+### Dynamic personal avatars
+
+We use personal data driven advertising profiles to prompt a diffusion model, creating dynamic avatars for users to download and share as nfts. The more personal data sources added by a user, the more relevant their avatar. Intially, a user is allocated a basic OwnYou avatar. As the user connects more personal data sources (email, photos, calendar, financial records etc.), the avatar will morphs to reflect an increasingly personal version. Avatars are fleeting; ever changing as a users wants and needs change. Users can create libraries of past avatars or use a dynamic avatar as a profile picture on social media.
+
+#### The first two videos use [Kaiber](https://kaiber.ai/)
+
 <video width="320" height="240" autoplay loop muted playsinline>
   <source src="/uploads/kaiber_nine_year_old_tennis.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <video width="320" height="240" autoplay loop muted playsinline>
   <source src="/uploads/kaiber_happy_girl.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+#### The second two videos use [Revel](https://revel.xyz/)
+
+<video width="320" height="240" autoplay loop muted playsinline>
+  <source src="/uploads/changing_man.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="320" height="240" autoplay loop muted playsinline>
+  <source src="/uploads/changing_woman.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

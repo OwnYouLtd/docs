@@ -18,6 +18,13 @@ hero:
 
 {% include boxes.html columns="3" title="Browse Topics" subtitle="Getting Started with the..." %}
 
+<center>
+<video width="320" height="240" autoplay loop muted playsinline>
+  <source src="/uploads/kaiber_nine_year_old_tennis.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+
 {% include faqs.html multiple="true" title="Frequently asked questions" category="faq" subtitle="Find quick answers to frequently asked questions" %}
 
 {% include cta.html
