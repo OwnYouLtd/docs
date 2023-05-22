@@ -19,7 +19,7 @@ hero:
 {% include boxes.html columns="3" title="Browse Topics" subtitle="Getting Started with the..." %}
 
 <center>
-<video width="320" height="240" autoplay loop muted playsinline>
+<video width="250" height="240" autoplay loop muted playsinline>
   <source src="/uploads/kaiber_happy_girl.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
