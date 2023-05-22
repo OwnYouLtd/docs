@@ -21,7 +21,8 @@ permalink: /:title/
 url: "https://www.ownyou.io"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo: ownyou_logo_24b.png
+logo: ownyoulogo3.jpg
+# logo: ownyou_logo_24b.png
 
 navbar:
   sticky: true
