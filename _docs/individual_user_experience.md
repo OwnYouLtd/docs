@@ -46,12 +46,12 @@ As OwnYou gathers momentum, gamification will need to evolve from avatars and ra
 
 Your personal data reveals a lot about who you are. The more you add, the more you are likely to learn. Gamifying the “getting to know yourself” process has enormous potential. Users can opt to share the data with privacy preserving comparison metrics; “did you know you are 75% more likely to buy a holiday this week than at any other time in the year”. Tying metrics into offers, so users can see why they are being offered certain ads and promotions, inverts the notion of surveillance advertising; your data, which only you can see, is driving this type of marketing. You can see all these offers because of your likely willingness to make a particular purchase, now.
 
-<video width="320" height="240" autoplay loop muted>
+<video width="320" height="240" autoplay loop muted playsinline>
   <source src="/uploads/kaiber_nine_year_old_tennis.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<video width="320" height="240" autoplay loop muted>
-  <source src="/uploads/kaiber_nine_year_old_tennis.mp4" type="video/mp4">
+<video width="320" height="240" autoplay loop muted playsinline>
+  <source src="/uploads/kaiber_happy_girl.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
