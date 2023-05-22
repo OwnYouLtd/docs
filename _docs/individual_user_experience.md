@@ -46,6 +46,15 @@ As OwnYou gathers momentum, gamification will need to evolve from avatars and ra
 
 Your personal data reveals a lot about who you are. The more you add, the more you are likely to learn. Gamifying the “getting to know yourself” process has enormous potential. Users can opt to share the data with privacy preserving comparison metrics; “did you know you are 75% more likely to buy a holiday this week than at any other time in the year”. Tying metrics into offers, so users can see why they are being offered certain ads and promotions, inverts the notion of surveillance advertising; your data, which only you can see, is driving this type of marketing. You can see all these offers because of your likely willingness to make a particular purchase, now.
 
+<video width="320" height="240" autoplay loop muted>
+  <source src="/uploads/kaiber_nine_year_old_tennis.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="320" height="240" autoplay loop muted>
+  <source src="/uploads/kaiber_nine_year_old_tennis.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Login with OwnYou
 
 <span style="color: #e81313">Login with Own-You</span> with makes it painless to access publisher websites, with a couple of clicks, and without the need to share any personal informatio, no sharing email address, no remember passwords, no having to click on various personal data disclaimers. The OwnYou architecture is designed around unique, one-time, interactions with publishers. The individual user’s relationship with the publisher is transactional, discrete, and ephemeral. High quality, reliable and detailed privacy preserving personal data is exchanged for one-time access using one-time identifiers. This helps simplify the login process. The publisher need only verify the user’s authenticity, and confirm audience suitability, prior to granting access. Suitability can translate into different levels of access; the Financial Times might choose to grant different access rights to Mrs Miggins the pie maker and Mr Bateman the investment banker, reflecting target audience profile valuations and advertiser fit.
