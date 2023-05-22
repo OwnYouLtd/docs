@@ -48,7 +48,9 @@ Your personal data reveals a lot about who you are. The more you add, the more y
 
 ### Dynamic personal avatars
 
-We use personal data driven advertising profiles to prompt a diffusion model, creating dynamic avatars for users to download and share as nfts. The more personal data sources added by a user, the more relevant their avatar. Intially, a user is allocated a basic OwnYou avatar. As the user connects more personal data sources (email, photos, calendar, financial records etc.), the avatar will morphs to reflect an increasingly personal version. Avatars are fleeting; ever changing as a users wants and needs change. Users can create libraries of past avatars or use a dynamic avatar as a profile picture on social media.
+We use personal data driven advertising profiles to prompt a diffusion model, creating dynamic avatars for users to download and share as nfts. The more personal data sources added by a user, the more relevant their avatar. Initially, a user is allocated a basic OwnYou avatar. As the user connects more personal data sources (email, photos, calendar, financial records etc.), the image will morph to reflect an increasingly personal avatar. Avatars are fleeting; ever changing as a users wants and needs change. Users can create libraries of past avatars or use a dynamic avatar as a profile picture on social media.
+
+While a gimmick, dynamic avatars help users see how their data reflects an image of their digital self. The more data they contribute to their personal data store, the better their digital image reflects their actual needs and wants. This is not trivial. Whether we like it or not, businesses are always building digital profiles that reflect who they think we are, and how they might serve us. OwnYou gives users an opportunity to present a truer version of their digital selves. To the user's benefit. Pseudonymously.
 
 #### The first two videos use [Kaiber](https://kaiber.ai/)
 
