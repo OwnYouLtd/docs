@@ -22,3 +22,27 @@
 // Other vendor styles
 // @import "syntax-highlighting/cld";
 @import "syntax-highlighting/bw";
+
+#googleForm {
+  overflow: hidden;
+}
+
+#googleForm::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: white;
+}
+
+.signup-button {
+  display: inline-block;
+  padding: 10px 10px;
+  background-color: rgb(5, 200, 150);
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}

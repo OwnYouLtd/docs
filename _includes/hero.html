@@ -28,9 +28,13 @@ assign align = "center" %} {% endif %}
           </video>
         </p>
         {% endif %}
+
         <h1 class="uk-heading-primary uk-text-center uk-margin-remove-top">
           {{ page.hero.title }}
         </h1>
+        <div class="uk-flex uk-flex-center uk-flex-middle" style="height: 7vh">
+          <a href="/signup" class="signup-button">Sign Up</a>
+        </div>
         {% if page.hero.subtitle %}
         <p class="uk-text-lead uk-text-center">{{ page.hero.subtitle }}</p>
         {% endif %} {% if page.hero.search %}
